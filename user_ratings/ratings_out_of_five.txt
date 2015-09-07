@@ -1,0 +1,1727 @@
+{'rating': u'3.6', 'hotelname': 'BARBEQUE NATION,Indiranagar', 'hotel_id': '2749', 'totalvotes': u'216 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE EGG FACTORY,St. Marks Road', 'hotel_id': '9033', 'totalvotes': u'195 Ratings'}
+{'rating': u'3.7', 'hotelname': 'UMERKOT,Koramangala', 'hotel_id': '2410', 'totalvotes': u'174 Ratings'}
+{'rating': u'3.6', 'hotelname': 'RUH,Sarjapur Road', 'hotel_id': '48284', 'totalvotes': u'158 Ratings'}
+{'rating': u'3.7', 'hotelname': 'WOODSTOK,Indiranagar', 'hotel_id': '44855', 'totalvotes': u'147 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LITTLE ITALY,Koramangala', 'hotel_id': '13920', 'totalvotes': u'147 Ratings'}
+{'rating': u'4.1', 'hotelname': 'BARBEQUE FACTORY,Koramangala', 'hotel_id': '156091', 'totalvotes': u'164 Ratings'}
+{'rating': u'4.0', 'hotelname': 'VEEKES AND THOMAS,JP Nagar', 'hotel_id': '44930', 'totalvotes': u'121 Ratings'}
+{'rating': u'4.0', 'hotelname': 'VIA MILANO,Koramangala', 'hotel_id': '4473', 'totalvotes': u'119 Ratings'}
+{'rating': u'3.4', 'hotelname': 'TOIT,Indiranagar', 'hotel_id': '68943', 'totalvotes': u'128 Ratings'}
+{'rating': u'3.5', 'hotelname': 'SAMARKAND,Infantry Road', 'hotel_id': '2331', 'totalvotes': u'121 Ratings'}
+{'rating': u'2.7', 'hotelname': 'OYE! AMRITSAR,Koramangala', 'hotel_id': '31697', 'totalvotes': u'112 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SHIRO, UB CITY,Vittal Mallya Road', 'hotel_id': '13065', 'totalvotes': u'107 Ratings'}
+{'rating': u'3.2', 'hotelname': 'PUNJABI BY NATURE,Koramangala', 'hotel_id': '350063', 'totalvotes': u'55 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE FAT CHEF,Whitefield', 'hotel_id': '69889', 'totalvotes': u'101 Ratings'}
+{'rating': u'3.5', 'hotelname': 'AROY,JP Nagar', 'hotel_id': '53923', 'totalvotes': u'104 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE ONLY PLACE,Museum Road', 'hotel_id': '1861', 'totalvotes': u'95 Ratings'}
+{'rating': u'3.4', 'hotelname': 'HERBS & SPICE,Indiranagar', 'hotel_id': '2340', 'totalvotes': u'91 Ratings'}
+{'rating': u'3.2', 'hotelname': 'KHANSAMA,Vittal Mallya Road', 'hotel_id': '12210', 'totalvotes': u'94 Ratings'}
+{'rating': u'3.7', 'hotelname': 'UNDER THE MANGO TREE,Richmond Town', 'hotel_id': '55788', 'totalvotes': u'89 Ratings'}
+{'rating': u'3.2', 'hotelname': 'BOCA GRANDE,Koramangala', 'hotel_id': '8686', 'totalvotes': u'88 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MILLERS 46,Vasanthnagar', 'hotel_id': '1835', 'totalvotes': u'85 Ratings'}
+{'rating': u'4.0', 'hotelname': 'INFINITEA,Cunningham Road', 'hotel_id': '1816', 'totalvotes': u'83 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHINA PEARL,Koramangala', 'hotel_id': '2177', 'totalvotes': u'86 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BISTRO CLAYTOPIA,Indiranagar', 'hotel_id': '13071', 'totalvotes': u'82 Ratings'}
+{'rating': u'3.8', 'hotelname': 'KUMARAKOM,HSR Layout', 'hotel_id': '222887', 'totalvotes': u'88 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SAHIB SINDH SULTAN,Koramangala', 'hotel_id': '1758', 'totalvotes': u'81 Ratings'}
+{'rating': u'3.4', 'hotelname': 'TOSCANO,Vittal Mallya Road', 'hotel_id': '9022', 'totalvotes': u'80 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PIZZERIA ROMANO,Koramangala', 'hotel_id': '35310', 'totalvotes': u'75 Ratings'}
+{'rating': u'3.9', 'hotelname': 'PEACOCK,Indiranagar', 'hotel_id': '324065', 'totalvotes': u'81 Ratings'}
+{'rating': u'4.1', 'hotelname': 'MUSE KITCHEN & LOUNGE,Indiranagar', 'hotel_id': '51370', 'totalvotes': u'74 Ratings'}
+{'rating': u'3.1', 'hotelname': "MAIYA'S,Jayanagar", 'hotel_id': '15185', 'totalvotes': u'84 Ratings'}
+{'rating': u'3.2', 'hotelname': 'GRAMIN,Koramangala', 'hotel_id': '4612', 'totalvotes': u'76 Ratings'}
+{'rating': u'2.9', 'hotelname': 'PUNJAB GRILL,Koramangala', 'hotel_id': '220843', 'totalvotes': u'70 Ratings'}
+{'rating': u'3.6', 'hotelname': 'NH 8,Indiranagar', 'hotel_id': '62671', 'totalvotes': u'72 Ratings'}
+{'rating': u'2.8', 'hotelname': 'CHANDINI CHOWK,Koramangala', 'hotel_id': '2173', 'totalvotes': u'69 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAST KALANDAR,Koramangala', 'hotel_id': '2649', 'totalvotes': u'71 Ratings'}
+{'rating': u'3.6', 'hotelname': 'EURASIA PASTA & BARBEQUE,Jayanagar', 'hotel_id': '30888', 'totalvotes': u'66 Ratings'}
+{'rating': u'3.7', 'hotelname': "DADDY'S DELI,Indiranagar", 'hotel_id': '14204', 'totalvotes': u'68 Ratings'}
+{'rating': u'3.5', 'hotelname': "THE FISHERMAN'S WHARF,Sarjapur Road", 'hotel_id': '354817', 'totalvotes': u'75 Ratings'}
+{'rating': u'3.8', 'hotelname': 'OLIVE BEACH,Ashoknagar', 'hotel_id': '1952', 'totalvotes': u'70 Ratings'}
+{'rating': u'2.9', 'hotelname': 'SOUTHINDIES,Indiranagar', 'hotel_id': '3776', 'totalvotes': u'67 Ratings'}
+{'rating': u'3.4', 'hotelname': 'EBONY, HOTEL IVORY TOWER,MG Road', 'hotel_id': '1735', 'totalvotes': u'69 Ratings'}
+{'rating': u'4.1', 'hotelname': 'LITTLE ITALY,Indiranagar', 'hotel_id': '71581', 'totalvotes': u'70 Ratings'}
+{'rating': u'3.3', 'hotelname': 'HARD ROCK CAFE,St. Marks Road', 'hotel_id': '8158', 'totalvotes': u'67 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SULTANS OF SPICE,  BLUPETAL - A BUSINESS HOTEL,Koramangala', 'hotel_id': '49940', 'totalvotes': u'66 Ratings'}
+{'rating': u'3.4', 'hotelname': 'FAVA,Vittal Mallya Road', 'hotel_id': '50059', 'totalvotes': u'64 Ratings'}
+{'rating': u'3.5', 'hotelname': 'VIDHYARTHI BHAVAN,Basavanagudi', 'hotel_id': '2374', 'totalvotes': u'68 Ratings'}
+{'rating': u'3.6', 'hotelname': 'CHUTNEY CHANG,Museum Road', 'hotel_id': '355868', 'totalvotes': u'80 Ratings'}
+{'rating': u'3.8', 'hotelname': 'BARBEQUE NATION,Koramangala', 'hotel_id': '23601', 'totalvotes': u'62 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BENJARONG,Ulsoor', 'hotel_id': '13122', 'totalvotes': u'61 Ratings'}
+{'rating': u'3.7', 'hotelname': 'PHOBIDDEN FRUIT,Indiranagar', 'hotel_id': '61571', 'totalvotes': u'59 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE 13TH FLOOR, HOTEL IVORY TOWER,MG Road', 'hotel_id': '2384', 'totalvotes': u'65 Ratings'}
+{'rating': u'3.9', 'hotelname': 'TAKE 5,Indiranagar', 'hotel_id': '2046', 'totalvotes': u'60 Ratings'}
+{'rating': u'3.0', 'hotelname': 'JALSA,Marathahalli', 'hotel_id': '4373', 'totalvotes': u'63 Ratings'}
+{'rating': u'3.1', 'hotelname': "OHRI'S SERENGETI,Sarjapur Road", 'hotel_id': '8448', 'totalvotes': u'55 Ratings'}
+{'rating': u'2.4', 'hotelname': 'BHOJOHORI MANNA,Koramangala', 'hotel_id': '27783', 'totalvotes': u'58 Ratings'}
+{'rating': u'3.7', 'hotelname': 'BARBEQUE NATION,JP Nagar', 'hotel_id': '8854', 'totalvotes': u'60 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CAFE MASALA,Brigade Road', 'hotel_id': '8131', 'totalvotes': u'56 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CAFE NOIR,Vittal Mallya Road', 'hotel_id': '51043', 'totalvotes': u'56 Ratings'}
+{'rating': u'3.6', 'hotelname': 'GOLMAAL PARATHA,Koramangala', 'hotel_id': '52251', 'totalvotes': u'52 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MANDI,JP Nagar', 'hotel_id': '57131', 'totalvotes': u'56 Ratings'}
+{'rating': u'2.9', 'hotelname': 'ESPLANADE - KITCHEN & BAR,Indiranagar', 'hotel_id': '14509', 'totalvotes': u'54 Ratings'}
+{'rating': u'3.1', 'hotelname': 'THE LEGEND OF LUCKNOW,Koramangala', 'hotel_id': '47741', 'totalvotes': u'51 Ratings'}
+{'rating': u'3.6', 'hotelname': 'THE HOLE IN THE WALL CAFE,Koramangala', 'hotel_id': '54251', 'totalvotes': u'57 Ratings'}
+{'rating': u'3.8', 'hotelname': 'TOMATINA,HSR Layout', 'hotel_id': '241381', 'totalvotes': u'56 Ratings'}
+{'rating': u'3.6', 'hotelname': 'PLAN B,Ashoknagar', 'hotel_id': '55160', 'totalvotes': u'55 Ratings'}
+{'rating': u'3.4', 'hotelname': 'RAJDHANI THALI RESTAURANT,Vittal Mallya Road', 'hotel_id': '9356', 'totalvotes': u'53 Ratings'}
+{'rating': u'2.1', 'hotelname': "AMMI'S BIRYANI,Koramangala", 'hotel_id': '12299', 'totalvotes': u'54 Ratings'}
+{'rating': u'2.9', 'hotelname': "OHRI'S SILVER METRO,Sarjapur Road", 'hotel_id': '8450', 'totalvotes': u'52 Ratings'}
+{'rating': u'3.8', 'hotelname': 'OH CALCUTTA!,St. Marks Road', 'hotel_id': '12231', 'totalvotes': u'52 Ratings'}
+{'rating': u'3.5', 'hotelname': "MANI'S DUM BIRYANI,Koramangala", 'hotel_id': '37615', 'totalvotes': u'51 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE BIERE CLUB,Vittal Mallya Road', 'hotel_id': '152537', 'totalvotes': u'51 Ratings'}
+{'rating': u'2.8', 'hotelname': 'GUFHA, THE PRESIDENT HOTEL,Jayanagar', 'hotel_id': '2721', 'totalvotes': u'49 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE GREAT INDIAN THALI,Koramangala', 'hotel_id': '322161', 'totalvotes': u'51 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GRILL MAXIMUS,HSR Layout', 'hotel_id': '361251', 'totalvotes': u'46 Ratings'}
+{'rating': u'3.7', 'hotelname': 'MAGNOLIA,Koramangala', 'hotel_id': '2223', 'totalvotes': u'50 Ratings'}
+{'rating': u'3.1', 'hotelname': '1947 - FINE INDIAN CUISINE,Banashankari', 'hotel_id': '8729', 'totalvotes': u'48 Ratings'}
+{'rating': u'3.6', 'hotelname': '100 FT BOUTIQUE BAR RESTAURANT,Indiranagar', 'hotel_id': '1899', 'totalvotes': u'48 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SPIGA,St. Marks Road', 'hotel_id': '34117', 'totalvotes': u'43 Ratings'}
+{'rating': u'3.2', 'hotelname': 'COAST II COAST,Koramangala', 'hotel_id': '2657', 'totalvotes': u'46 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TRUFFLES ICE & SPICE,Koramangala', 'hotel_id': '53570', 'totalvotes': u'54 Ratings'}
+{'rating': u'2.8', 'hotelname': 'HERBS & SPICES,Whitefield', 'hotel_id': '1981', 'totalvotes': u'47 Ratings'}
+{'rating': u'3.8', 'hotelname': 'CHIANTI,Koramangala', 'hotel_id': '355995', 'totalvotes': u'49 Ratings'}
+{'rating': u'2.9', 'hotelname': 'LOVESHACK,Domlur', 'hotel_id': '150957', 'totalvotes': u'48 Ratings'}
+{'rating': u'4.2', 'hotelname': 'HUNAN,New BEL Road', 'hotel_id': '12073', 'totalvotes': u'44 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MAVALLI TIFFIN ROOM (MTR),Lalbagh Road', 'hotel_id': '2355', 'totalvotes': u'50 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BFLAT BAR AND DINING,Indiranagar', 'hotel_id': '14527', 'totalvotes': u'40 Ratings'}
+{'rating': u'2.6', 'hotelname': 'PUNJABI TIMES,Bannerghatta Main Road', 'hotel_id': '2642', 'totalvotes': u'40 Ratings'}
+{'rating': u'3.2', 'hotelname': 'MAINLAND CHINA,Indiranagar', 'hotel_id': '4795', 'totalvotes': u'41 Ratings'}
+{'rating': u'2.4', 'hotelname': 'LAZEEZ RESTAURANT,Koramangala', 'hotel_id': '2220', 'totalvotes': u'41 Ratings'}
+{'rating': u'2.5', 'hotelname': 'CABLE CAR, SFO HOTEL & SUITES,Jayanagar', 'hotel_id': '14955', 'totalvotes': u'39 Ratings'}
+{'rating': u'4.2', 'hotelname': 'SRI SAGAR (FORMERLY CENTRAL TIFFIN ROOM),Malleshwaram', 'hotel_id': '2372', 'totalvotes': u'46 Ratings'}
+{'rating': u'3.3', 'hotelname': 'A TASTE OF RAMPUR,Koramangala', 'hotel_id': '2560', 'totalvotes': u'42 Ratings'}
+{'rating': u'2.7', 'hotelname': 'KOBE SIZZLERS,Koramangala', 'hotel_id': '54596', 'totalvotes': u'39 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SHREE KRISHNA KAFE,Koramangala', 'hotel_id': '9021', 'totalvotes': u'41 Ratings'}
+{'rating': u'3.4', 'hotelname': 'IMLI,Indiranagar', 'hotel_id': '356180', 'totalvotes': u'43 Ratings'}
+{'rating': u'3.2', 'hotelname': 'CREAM CENTRE,Indiranagar', 'hotel_id': '57715', 'totalvotes': u'41 Ratings'}
+{'rating': u'3.7', 'hotelname': 'ALIBABA CAFE & RESTAURANT,Frazer Town', 'hotel_id': '9044', 'totalvotes': u'39 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MAINLAND CHINA,Church Street', 'hotel_id': '1829', 'totalvotes': u'38 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SUFI RESTAURANT,Koramangala', 'hotel_id': '51166', 'totalvotes': u'37 Ratings'}
+{'rating': u'4.2', 'hotelname': 'MANGALORE PEARL,Frazer Town', 'hotel_id': '1999', 'totalvotes': u'38 Ratings'}
+{'rating': u'3.9', 'hotelname': 'GUD DHANI,BTM Layout', 'hotel_id': '12963', 'totalvotes': u'39 Ratings'}
+{'rating': u'3.1', 'hotelname': 'BARLEYZ - THE BREW HOUSE,Koramangala', 'hotel_id': '363697', 'totalvotes': u'40 Ratings'}
+{'rating': u'2.7', 'hotelname': 'ANGEETHI, MUSEUM INN,Museum Road', 'hotel_id': '1711', 'totalvotes': u'35 Ratings'}
+{'rating': u'2.9', 'hotelname': 'LAA JAWAAB,Indiranagar', 'hotel_id': '14762', 'totalvotes': u'37 Ratings'}
+{'rating': u'3.4', 'hotelname': 'KUND,Indiranagar', 'hotel_id': '2328', 'totalvotes': u'36 Ratings'}
+{'rating': u'3.0', 'hotelname': 'COCONUT GROVE,MG Road', 'hotel_id': '2296', 'totalvotes': u'36 Ratings'}
+{'rating': u'4.0', 'hotelname': 'COUNTERCULTURE,Whitefield', 'hotel_id': '62177', 'totalvotes': u'36 Ratings'}
+{'rating': u'3.4', 'hotelname': '24TH MAIN, CROSS ROADS INN,JP Nagar', 'hotel_id': '13009', 'totalvotes': u'38 Ratings'}
+{'rating': u'3.4', 'hotelname': 'AN ELEGANT ELEPHANT,Koramangala', 'hotel_id': '350253', 'totalvotes': u'39 Ratings'}
+{'rating': u'2.6', 'hotelname': 'CALIFORNIA PIZZA KITCHEN,Indiranagar', 'hotel_id': '355704', 'totalvotes': u'35 Ratings'}
+{'rating': u'3.7', 'hotelname': 'PRESTO,Basavanagudi', 'hotel_id': '54805', 'totalvotes': u'35 Ratings'}
+{'rating': u'2.9', 'hotelname': 'OPUS IN THE CREEK,Whitefield', 'hotel_id': '2149', 'totalvotes': u'35 Ratings'}
+{'rating': u'2.9', 'hotelname': 'ENTE KERALAM,Ulsoor', 'hotel_id': '57499', 'totalvotes': u'35 Ratings'}
+{'rating': u'3.4', 'hotelname': 'KOBE SIZZLERS,Magrath Road', 'hotel_id': '2744', 'totalvotes': u'35 Ratings'}
+{'rating': u'3.3', 'hotelname': 'DUGOUT ROOFTOP & SPORTS BAR,Koramangala', 'hotel_id': '185585', 'totalvotes': u'37 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MONKEY BAR,Ashoknagar', 'hotel_id': '356821', 'totalvotes': u'35 Ratings'}
+{'rating': u'3.2', 'hotelname': 'PECOS,Rest House Road', 'hotel_id': '1881', 'totalvotes': u'34 Ratings'}
+{'rating': u'2.9', 'hotelname': 'THE TASTY TANGLES,Vittal Mallya Road', 'hotel_id': '13064', 'totalvotes': u'33 Ratings'}
+{'rating': u'2.9', 'hotelname': 'CHOKHI DHANI ROYAL - RAJASTHANI THALI,Domlur', 'hotel_id': '363727', 'totalvotes': u'37 Ratings'}
+{'rating': u'3.4', 'hotelname': 'QUEENS,Church Street', 'hotel_id': '1962', 'totalvotes': u'35 Ratings'}
+{'rating': u'3.3', 'hotelname': 'THE BLACK PEARL,Koramangala', 'hotel_id': '365327', 'totalvotes': u'44 Ratings'}
+{'rating': u'2.5', 'hotelname': 'COPPER CHIMNEY ,Indiranagar', 'hotel_id': '152473', 'totalvotes': u'32 Ratings'}
+{'rating': u'4.6', 'hotelname': 'THE SQUARE-FOOD OUTSIDE THE BOX, NOVOTEL BENGALURU TECHPARK,Bellandur', 'hotel_id': '354407', 'totalvotes': u'34 Ratings'}
+{'rating': u'4.1', 'hotelname': 'TANGRA - EDEN PARK RESTAURANTS,Jayanagar', 'hotel_id': '63573', 'totalvotes': u'38 Ratings'}
+{'rating': u'2.8', 'hotelname': 'INDIJOE,Old Madras Road', 'hotel_id': '9215', 'totalvotes': u'33 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GOLCONDA CHIMNEY,Whitefield', 'hotel_id': '2325', 'totalvotes': u'38 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HUNAN,Koramangala', 'hotel_id': '224419', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SKYYE LOUNGE, UB CITY,Vittal Mallya Road', 'hotel_id': '64537', 'totalvotes': u'67 Ratings'}
+{'rating': u'4.1', 'hotelname': 'SMOKED OUT BARBECUE,Koramangala', 'hotel_id': '345293', 'totalvotes': u'33 Ratings'}
+{'rating': u'3.7', 'hotelname': "KOSHY'S PARADE CAFE,St. Marks Road", 'hotel_id': '1821', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.9', 'hotelname': 'KANUA,Sarjapur Road', 'hotel_id': '15729', 'totalvotes': u'33 Ratings'}
+{'rating': u'2.6', 'hotelname': 'THE PUNJABI RASOI,HSR Layout', 'hotel_id': '52757', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CIRRUS,Indiranagar', 'hotel_id': '16388', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.3', 'hotelname': "SUE'S FOOD PLACE,Indiranagar", 'hotel_id': '2026', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.9', 'hotelname': 'I & MONKEY,Indiranagar', 'hotel_id': '352075', 'totalvotes': u'32 Ratings'}
+{'rating': u'3.1', 'hotelname': 'THREE QUARTER CHINESE,Church Street', 'hotel_id': '1864', 'totalvotes': u'37 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TANDOOR,MG Road', 'hotel_id': '1856', 'totalvotes': u'34 Ratings'}
+{'rating': u'3.1', 'hotelname': 'HABANERO,Whitefield', 'hotel_id': '320975', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.2', 'hotelname': 'BANANA BEACH BAR,Koramangala', 'hotel_id': '55576', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.6', 'hotelname': 'TOSCANO,Whitefield', 'hotel_id': '39167', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SMOKE HOUSE DELI,Indiranagar', 'hotel_id': '366745', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.4', 'hotelname': 'BINGO FAMILY RESTAURANT, 24 TECH HOTEL,Kadubeesanahalli', 'hotel_id': '285175', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE PUNJABI RASOI,Indiranagar', 'hotel_id': '44492', 'totalvotes': u'30 Ratings'}
+{'rating': u'2.9', 'hotelname': 'SPAGHETTI KITCHEN,Indiranagar', 'hotel_id': '152469', 'totalvotes': u'29 Ratings'}
+{'rating': u'3.3', 'hotelname': 'EMPIRE RESTAURANT, HOTEL EMPIRE INTERNATIONAL,Koramangala', 'hotel_id': '12388', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.5', 'hotelname': '4 SEASONS ,Indiranagar', 'hotel_id': '218397', 'totalvotes': u'32 Ratings'}
+{'rating': u'3.1', 'hotelname': 'HEERA,JP Nagar', 'hotel_id': '222003', 'totalvotes': u'30 Ratings'}
+{'rating': u'3.7', 'hotelname': 'YOUR STATE,Koramangala', 'hotel_id': '61071', 'totalvotes': u'28 Ratings'}
+{'rating': u'3.3', 'hotelname': 'LUO HAN,HSR Layout', 'hotel_id': '2623', 'totalvotes': u'33 Ratings'}
+{'rating': u'2.9', 'hotelname': 'HYDERABADI BIRYANI HOUSE,Airport Road', 'hotel_id': '9164', 'totalvotes': u'33 Ratings'}
+{'rating': u'3.3', 'hotelname': 'HALLIMANE,Malleshwaram', 'hotel_id': '2096', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GRIGLIATO,HSR Layout', 'hotel_id': '64661', 'totalvotes': u'38 Ratings'}
+{'rating': u'3.1', 'hotelname': 'MINT MASALA,Sadashivnagar', 'hotel_id': '13468', 'totalvotes': u'27 Ratings'}
+{'rating': u'3.2', 'hotelname': 'RASTA CAFE,Bangalore Mysore Highway', 'hotel_id': '57098', 'totalvotes': u'39 Ratings'}
+{'rating': u'3.7', 'hotelname': 'NO LIMMITS,Magrath Road', 'hotel_id': '360500', 'totalvotes': u'35 Ratings'}
+{'rating': u'2.8', 'hotelname': 'FUSION LOUNGE,Brigade Road', 'hotel_id': '2577', 'totalvotes': u'35 Ratings'}
+{'rating': u'2.6', 'hotelname': 'CALIFORNIA PIZZA KITCHEN,Mahadevapura', 'hotel_id': '341801', 'totalvotes': u'27 Ratings'}
+{'rating': u'4.0', 'hotelname': '898 STEAKS & GRILLS,Koramangala', 'hotel_id': '187235', 'totalvotes': u'29 Ratings'}
+{'rating': u'3.6', 'hotelname': 'LUMIERE ORGANIC RESTAURANT,Dodda Nakkundi', 'hotel_id': '49659', 'totalvotes': u'27 Ratings'}
+{'rating': u'2.9', 'hotelname': 'VILLAGE - THE SOUL OF INDIA,Jayanagar', 'hotel_id': '347649', 'totalvotes': u'31 Ratings'}
+{'rating': u'3.3', 'hotelname': '6 BALLYGUNGE PLACE,Indiranagar', 'hotel_id': '1900', 'totalvotes': u'28 Ratings'}
+{'rating': u'1.6', 'hotelname': 'ROOMALI WITH A VIEW,Indiranagar', 'hotel_id': '2014', 'totalvotes': u'26 Ratings'}
+{'rating': u'2.9', 'hotelname': 'LA CASA,Jayanagar', 'hotel_id': '2218', 'totalvotes': u'28 Ratings'}
+{'rating': u'2.5', 'hotelname': 'HYDERABAD HOUSE,Koramangala', 'hotel_id': '2326', 'totalvotes': u'27 Ratings'}
+{'rating': u'3.0', 'hotelname': 'LEBMEX,Koramangala', 'hotel_id': '58681', 'totalvotes': u'27 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CITY BAR,Vittal Mallya Road', 'hotel_id': '54547', 'totalvotes': u'32 Ratings'}
+{'rating': u'3.7', 'hotelname': 'BLUE GINGER, THE TAJ WEST END,Race Course Road', 'hotel_id': '2144', 'totalvotes': u'27 Ratings'}
+{'rating': u'3.7', 'hotelname': 'AROMAS OF CHINA,Brigade Road', 'hotel_id': '7584', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.3', 'hotelname': 'KHAAJA CHOWK,Indiranagar', 'hotel_id': '352529', 'totalvotes': u'29 Ratings'}
+{'rating': u'3.8', 'hotelname': 'COUCH,MG Road', 'hotel_id': '7623', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.2', 'hotelname': 'KAAYAL,New Thippasandra', 'hotel_id': '4125', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.9', 'hotelname': "FENNY'S LOUNGE & KITCHEN,Koramangala", 'hotel_id': '366735', 'totalvotes': u'36 Ratings'}
+{'rating': u'3.6', 'hotelname': 'RAJDHANI THALI RESTAURANT,JP Nagar', 'hotel_id': '55267', 'totalvotes': u'31 Ratings'}
+{'rating': u'2.9', 'hotelname': "TGI FRIDAY'S,Bannerghatta Main Road", 'hotel_id': '152685', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.2', 'hotelname': 'POPSIES,Koramangala', 'hotel_id': '8287', 'totalvotes': u'28 Ratings'}
+{'rating': u'3.6', 'hotelname': 'NAGARJUNA,Residency Road', 'hotel_id': '2357', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.0', 'hotelname': 'LOUNGE 579,Kammanahalli Main Road', 'hotel_id': '153911', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.8', 'hotelname': 'XIAN CHINESE RESTAURANT,Ulsoor', 'hotel_id': '32559', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.2', 'hotelname': 'INDIJOE,Church Street', 'hotel_id': '8692', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.4', 'hotelname': 'ADAA,Marathahalli', 'hotel_id': '3774', 'totalvotes': u'24 Ratings'}
+{'rating': u'3.9', 'hotelname': 'BAISAKHI,Gandhi Bazaar', 'hotel_id': '42977', 'totalvotes': u'27 Ratings'}
+{'rating': u'3.7', 'hotelname': 'THE GRILL HOUSE,Ulsoor', 'hotel_id': '53250', 'totalvotes': u'24 Ratings'}
+{'rating': u'3.1', 'hotelname': 'MAST KALANDAR,Marathahalli', 'hotel_id': '7889', 'totalvotes': u'24 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ADUPADI,Indiranagar', 'hotel_id': '356377', 'totalvotes': u'26 Ratings'}
+{'rating': u'2.9', 'hotelname': 'MISHMASH,HSR Layout', 'hotel_id': '360172', 'totalvotes': u'28 Ratings'}
+{'rating': u'4.2', 'hotelname': 'THE ORIENTAL KITCHEN,Koramangala', 'hotel_id': '362849', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.1', 'hotelname': 'OPUS (PALACE CROSS),Palace Orchards', 'hotel_id': '45474', 'totalvotes': u'29 Ratings'}
+{'rating': u'3.9', 'hotelname': '12TH MAIN, GRAND MERCURE HOTEL,Koramangala', 'hotel_id': '17732', 'totalvotes': u'24 Ratings'}
+{'rating': u'3.7', 'hotelname': 'AROMAS OF CHINA,Richmond Town', 'hotel_id': '1712', 'totalvotes': u'23 Ratings'}
+{'rating': u'2.3', 'hotelname': "RUBY'S BAR & GRILL,Church Street", 'hotel_id': '2415', 'totalvotes': u'24 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ELEMENTS EATERY,Jayamahal Road', 'hotel_id': '1737', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.6', 'hotelname': 'AIOLI BBQ AND GRILL SMOKEHOUSE,Kalyan Nagar', 'hotel_id': '55691', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GOOD LUCK,Jeevanbheema Nagar', 'hotel_id': '70835', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MANDARIN TRAIL,Malleshwaram', 'hotel_id': '71349', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BAY LEAF,Koramangala', 'hotel_id': '2628', 'totalvotes': u'22 Ratings'}
+{'rating': u'3.2', 'hotelname': 'KABAB STUDIO, GOLDFINCH HOTEL,Cresent Road', 'hotel_id': '2327', 'totalvotes': u'25 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CIBO ESCA,Chandra Layout', 'hotel_id': '66311', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.6', 'hotelname': "AMMI'S BIRYANI,Marathahalli", 'hotel_id': '45428', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.6', 'hotelname': 'TASTY BITES,Bannerghatta Main Road', 'hotel_id': '56465', 'totalvotes': u'23 Ratings'}
+{'rating': u'2.6', 'hotelname': 'ANJAPPAR CHETTINAD RESTAURANT,Koramangala', 'hotel_id': '8380', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHUNG WAH,Koramangala', 'hotel_id': '1792', 'totalvotes': u'22 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE ROGUE ELEPHANT,Basavanagudi', 'hotel_id': '50609', 'totalvotes': u'22 Ratings'}
+{'rating': u'3.0', 'hotelname': 'INCHARA RESTAURANT, INCHARA HOTEL,JP Nagar', 'hotel_id': '2194', 'totalvotes': u'25 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KONARK,Residency Road', 'hotel_id': '1820', 'totalvotes': u'22 Ratings'}
+{'rating': u'3.9', 'hotelname': 'PORTLAND STEAKHOUSE & CAFE,MG Road', 'hotel_id': '358294', 'totalvotes': u'21 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CITRUS, THE LEELA PALACE,Airport Road', 'hotel_id': '1919', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.2', 'hotelname': 'NAGARJUNA NAKSHATRA,Indiranagar', 'hotel_id': '12927', 'totalvotes': u'21 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THREE QUARTER CHINESE,Jayanagar', 'hotel_id': '48370', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.4', 'hotelname': 'WOK WITH CHUNG,Marathahalli', 'hotel_id': '13019', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.6', 'hotelname': 'SMOKING CHULHA,Sarjapur Road', 'hotel_id': '54057', 'totalvotes': u'20 Ratings'}
+{'rating': u'2.4', 'hotelname': 'MAST KALANDAR,Indiranagar', 'hotel_id': '4143', 'totalvotes': u'21 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE ORCHARD,Sadashivnagar', 'hotel_id': '189675', 'totalvotes': u'22 Ratings'}
+{'rating': u'2.7', 'hotelname': 'URBAN SOLACE - CAFE FOR THE SOUL,Ulsoor', 'hotel_id': '49713', 'totalvotes': u'19 Ratings'}
+{'rating': u'2.8', 'hotelname': "THE NARAYAN'S SUGGI,JP Nagar", 'hotel_id': '152683', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.4', 'hotelname': 'THE CHOCOLATE ROOM,Koramangala', 'hotel_id': '70701', 'totalvotes': u'20 Ratings'}
+{'rating': u'2.8', 'hotelname': 'TREAT RESTAURANT,Indiranagar', 'hotel_id': '2036', 'totalvotes': u'21 Ratings'}
+{'rating': u'3.2', 'hotelname': 'PAPRICA,Marathahalli', 'hotel_id': '23603', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.0', 'hotelname': 'RASA RESTAURANT,Malleshwaram', 'hotel_id': '9018', 'totalvotes': u'20 Ratings'}
+{'rating': u'4.5', 'hotelname': 'FISHLAND,Gandhinagar', 'hotel_id': '2346', 'totalvotes': u'23 Ratings'}
+{'rating': u'2.6', 'hotelname': 'WANLEY RESTAURANT,Indiranagar', 'hotel_id': '2038', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.3', 'hotelname': 'HABANERO,Indiranagar', 'hotel_id': '362845', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HOTEL FANOOS,Richmond Town', 'hotel_id': '1804', 'totalvotes': u'22 Ratings'}
+{'rating': u'2.6', 'hotelname': 'CURRY MEEN,Indiranagar', 'hotel_id': '155967', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.6', 'hotelname': '69 SECONDS RESTAURANT,Sarjapur Road', 'hotel_id': '185833', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.9', 'hotelname': 'CARNIVAL DE GOA,Ulsoor', 'hotel_id': '357443', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE EGG FACTORY,JP Nagar', 'hotel_id': '358058', 'totalvotes': u'18 Ratings'}
+{'rating': u'2.8', 'hotelname': 'FIRANGI PAANI,Koramangala', 'hotel_id': '1759', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.7', 'hotelname': 'NEW KRISHNA BHAVAN,Malleshwaram', 'hotel_id': '2115', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.8', 'hotelname': 'WINDSOR PUB,Vasanthnagar', 'hotel_id': '2151', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SOUTHINDIES, THE CHEVRON HOTEL,Infantry Road', 'hotel_id': '13541', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.7', 'hotelname': 'COORG,Indiranagar', 'hotel_id': '41349', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.7', 'hotelname': "VICKY'S LA TERRAZZA,Koramangala", 'hotel_id': '12061', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.0', 'hotelname': 'NOBLE HOUSE,Jayanagar', 'hotel_id': '42377', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.1', 'hotelname': 'KIM LEE RESTAURANT,Indiranagar', 'hotel_id': '1989', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.9', 'hotelname': 'KUDLA, HOTEL RAMANASHREE,Richmond Town', 'hotel_id': '1823', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHINA BOWL,Koramangala', 'hotel_id': '23605', 'totalvotes': u'21 Ratings'}
+{'rating': u'3.0', 'hotelname': 'JALPAAN,Jayanagar', 'hotel_id': '46990', 'totalvotes': u'20 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SUGGI,New BEL Road', 'hotel_id': '50813', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BRICKLANE GRILL, ESCAPE HOTEL AND SPA,Indiranagar', 'hotel_id': '345379', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.7', 'hotelname': 'RED BAMBOO SHOOTS, MUSEUM INN,Museum Road', 'hotel_id': '1716', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.9', 'hotelname': 'HARIMA,Residency Road', 'hotel_id': '1742', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.8', 'hotelname': 'INDIA COFFEE HOUSE,Church Street', 'hotel_id': '18176', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.9', 'hotelname': 'RAAGA,Indiranagar', 'hotel_id': '8349', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE RENDEZVOUS,Koramangala', 'hotel_id': '2243', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.4', 'hotelname': 'UDUPI KRISHNA BHAVAN,Koramangala', 'hotel_id': '2273', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.4', 'hotelname': 'VRIKSH RESTAURANT,Yelahanka New Town', 'hotel_id': '364111', 'totalvotes': u'20 Ratings'}
+{'rating': u'2.9', 'hotelname': '1947 RESTAURANT,Jayanagar', 'hotel_id': '68005', 'totalvotes': u'22 Ratings'}
+{'rating': u'3.2', 'hotelname': 'ABSOLUTE BARBECUE,Marathahalli', 'hotel_id': '387810', 'totalvotes': u'51 Ratings'}
+{'rating': u'2.3', 'hotelname': 'THE GREAT KABAB FACTORY,Malleshwaram', 'hotel_id': '71341', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.1', 'hotelname': 'MAINLAND CHINA ,Koramangala', 'hotel_id': '219711', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.5', 'hotelname': 'KAKORI KABABS & CURRIES,JP Nagar', 'hotel_id': '222499', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.7', 'hotelname': 'VANANI,Padmanabhanagar', 'hotel_id': '224851', 'totalvotes': u'18 Ratings'}
+{'rating': u'2.7', 'hotelname': 'PINCH OF VEG,Jayanagar', 'hotel_id': '55515', 'totalvotes': u'19 Ratings'}
+{'rating': u'2.3', 'hotelname': 'COPPER CHIMNEY,Whitefield', 'hotel_id': '360658', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.5', 'hotelname': 'WINDMILLS CRAFT WORKS,Whitefield', 'hotel_id': '362195', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.1', 'hotelname': 'OCEAN - THE FAMILY RESTAURANT,Koramangala', 'hotel_id': '58339', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.8', 'hotelname': 'GREEN ONION,Residency Road', 'hotel_id': '1739', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.3', 'hotelname': 'PAPARAZZI, ROYAL ORCHID CENTRAL,Dickenson Road', 'hotel_id': '1957', 'totalvotes': u'16 Ratings'}
+{'rating': u'1.9', 'hotelname': 'MALGUDI,Marathahalli', 'hotel_id': '1998', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.6', 'hotelname': 'RICHIES RAHHAMS,MM Road', 'hotel_id': '2012', 'totalvotes': u'18 Ratings'}
+{'rating': u'4.2', 'hotelname': 'GRASSHOPPER,Bannerghatta Main Road', 'hotel_id': '2160', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.1', 'hotelname': 'K & K, ITC GARDENIA,Residency Road', 'hotel_id': '43265', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.1', 'hotelname': 'TASHAN,Kalyan Nagar', 'hotel_id': '8480', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.9', 'hotelname': 'CILANTRO, HALCYON,Koramangala', 'hotel_id': '12582', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.6', 'hotelname': "KOSHY'S JEWEL BOX,St. Marks Road", 'hotel_id': '2418', 'totalvotes': u'16 Ratings'}
+{'rating': u'2.9', 'hotelname': 'BHEEMAS,Church Street', 'hotel_id': '1719', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.9', 'hotelname': 'CTR MALLESWARAM,Malleshwaram', 'hotel_id': '223903', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.2', 'hotelname': 'ATHITYAM,Jayanagar', 'hotel_id': '190011', 'totalvotes': u'19 Ratings'}
+{'rating': u'4.8', 'hotelname': 'CORINGA,Jakkur', 'hotel_id': '190057', 'totalvotes': u'17 Ratings'}
+{'rating': u'1.6', 'hotelname': 'MAST KALANDAR,HSR Layout', 'hotel_id': '62793', 'totalvotes': u'20 Ratings'}
+{'rating': u'2.2', 'hotelname': 'A TASTE OF RAMPUR,Marathahalli', 'hotel_id': '151359', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.7', 'hotelname': "CALVIN'S,Koramangala", 'hotel_id': '354846', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.2', 'hotelname': 'YANA SIZZLERS,Koramangala', 'hotel_id': '185433', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MANGO TREE,JP Nagar', 'hotel_id': '226749', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.9', 'hotelname': 'VEEKES AND THOMAS,Koramangala', 'hotel_id': '188189', 'totalvotes': u'15 Ratings'}
+{'rating': u'2.9', 'hotelname': 'PIER 39, SFO HOTEL & SUITES,Jayanagar', 'hotel_id': '54548', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.5', 'hotelname': 'ISTANBUL DONER,Indiranagar', 'hotel_id': '355980', 'totalvotes': u'15 Ratings'}
+{'rating': u'2.9', 'hotelname': 'THE WAGGAH,Koramangala', 'hotel_id': '356171', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SANJHA CHULHA,Marathahalli', 'hotel_id': '57598', 'totalvotes': u'15 Ratings'}
+{'rating': u'4.2', 'hotelname': 'PEPPER CAFE,Ulsoor', 'hotel_id': '69845', 'totalvotes': u'17 Ratings'}
+{'rating': u'4.5', 'hotelname': 'PURAN DA DHABA, THE PRIDE HOTEL,Richmond Town', 'hotel_id': '351487', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.5', 'hotelname': 'JANATA HOTEL,Malleshwaram', 'hotel_id': '2103', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.9', 'hotelname': 'NAACHIYARS,Ulsoor', 'hotel_id': '12107', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SUMMER VINE,Whitefield', 'hotel_id': '12941', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE JUKE BOX,Koramangala', 'hotel_id': '2269', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.6', 'hotelname': 'TASTE OF TIBET,Brigade Road', 'hotel_id': '2445', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BANGALORE MANDARIN,Indiranagar', 'hotel_id': '2463', 'totalvotes': u'17 Ratings'}
+{'rating': u'4.3', 'hotelname': 'SOUL INDIAN SPECIALTY, SVENSKA DESIGN HOTEL,Electronics City', 'hotel_id': '154695', 'totalvotes': u'26 Ratings'}
+{'rating': u'3.2', 'hotelname': 'CHALO PUNJAB,Koramangala', 'hotel_id': '2182', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.1', 'hotelname': '20 FEET HIGH,Church Street', 'hotel_id': '1702', 'totalvotes': u'15 Ratings'}
+{'rating': u'4.1', 'hotelname': 'CUBBON PAVILION, ITC GARDENIA,Residency Road', 'hotel_id': '43258', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.9', 'hotelname': 'JALPAAN,Rajajinagar', 'hotel_id': '152829', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SAVOURY,Frazer Town', 'hotel_id': '2015', 'totalvotes': u'18 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MAST KALANDAR,BTM Layout 2nd Stage', 'hotel_id': '7227', 'totalvotes': u'16 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RAJDHANI THALI RESTAURANT,Whitefield', 'hotel_id': '57241', 'totalvotes': u'18 Ratings'}
+{'rating': u'4.1', 'hotelname': 'FRESKKA,RMV Extension', 'hotel_id': '46988', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.9', 'hotelname': 'NIZAMS KITCHEN,Marathahalli', 'hotel_id': '355679', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.1', 'hotelname': 'GREEN THEORY,Residency Road', 'hotel_id': '184709', 'totalvotes': u'20 Ratings'}
+{'rating': u'3.6', 'hotelname': 'F BAR & KITCHEN,Cunningham Road', 'hotel_id': '191281', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.1', 'hotelname': "BENITO'S,Sarjapur Road", 'hotel_id': '57004', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.8', 'hotelname': 'RAJDHANI THALI RESTAURANT,Malleshwaram', 'hotel_id': '55398', 'totalvotes': u'21 Ratings'}
+{'rating': u'4.6', 'hotelname': 'SKY LOUNGE BAR, SVENSKA DESIGN HOTEL,Electronics City', 'hotel_id': '382898', 'totalvotes': u'28 Ratings'}
+{'rating': u'3.1', 'hotelname': 'BOW BARRACKS,Indiranagar', 'hotel_id': '354949', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.6', 'hotelname': 'PUNJABI TIMES,Bellandur', 'hotel_id': '358283', 'totalvotes': u'15 Ratings'}
+{'rating': u'4.1', 'hotelname': 'PASTA STREET,Cunningham Road', 'hotel_id': '359320', 'totalvotes': u'15 Ratings'}
+{'rating': u'2.6', 'hotelname': 'THE TAO TERRACES,MG Road', 'hotel_id': '364649', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.9', 'hotelname': 'FAT BUDDHA,Cunningham Road', 'hotel_id': '61327', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CAFE MOZAIC, VIVANTA BY TAJ,MG Road', 'hotel_id': '1722', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.8', 'hotelname': 'ARANYA,HSR Layout', 'hotel_id': '1909', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.7', 'hotelname': 'UP BEAT,Banaswadi', 'hotel_id': '2037', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.6', 'hotelname': 'SECRET GARDEN CAFE,Cunningham Road', 'hotel_id': '14037', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MASALAA,Chikkalsandra', 'hotel_id': '7213', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.2', 'hotelname': 'SPICE GARDEN,Whitefield', 'hotel_id': '2332', 'totalvotes': u'15 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KAMATH BUGLE ROCK,Basavanagudi', 'hotel_id': '2599', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SHIVAJI MILITARY HOTEL,Jayanagar', 'hotel_id': '2336', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.0', 'hotelname': 'TRUFFLES ICE & SPICE,New BEL Road', 'hotel_id': '12339', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHUNG-WAH OPUS,Jayanagar', 'hotel_id': '8761', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.7', 'hotelname': 'NAGARJUNA CHIMNEY,Jayanagar', 'hotel_id': '2394', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.8', 'hotelname': 'YAUATCHA, 1MG MALL,MG Road', 'hotel_id': '384041', 'totalvotes': u'17 Ratings'}
+{'rating': u'4.4', 'hotelname': 'THE HIGHER TASTE,Rajajinagar', 'hotel_id': '54952', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MAST KALANDAR,Cunningham Road', 'hotel_id': '42362', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MTR 1924,St. Marks Road', 'hotel_id': '54367', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KUDLA, CORALTREE BY GOLDFINCH,RT Nagar', 'hotel_id': '153123', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.7', 'hotelname': 'A TASTE OF RAMPUR,Indiranagar', 'hotel_id': '61919', 'totalvotes': u'14 Ratings'}
+{'rating': u'2.3', 'hotelname': 'CLUB CABANA,Sadahalli', 'hotel_id': '2766', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.3', 'hotelname': 'LAZEEZ RESTAURANT,Koramangala', 'hotel_id': '52225', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SEA SPICE, SHETTY GARDENIA HOTEL,Banashankari', 'hotel_id': '13952', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHETTIARS,Indiranagar', 'hotel_id': '249499', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.1', 'hotelname': 'RROYAL RAJASTHAN,Sarjapur Road', 'hotel_id': '225829', 'totalvotes': u'14 Ratings'}
+{'rating': u'4.0', 'hotelname': "FILL N' CHILL,Koramangala", 'hotel_id': '226027', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.4', 'hotelname': 'ON THE EDGE, HOTEL IVORY TOWER,MG Road', 'hotel_id': '52072', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.6', 'hotelname': 'OVER THE TOP-TERRACE LOUNGE,Koramangala', 'hotel_id': '357159', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.7', 'hotelname': "CHILI'S GRILL & BAR,Mahadevapura", 'hotel_id': '359289', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.2', 'hotelname': 'KORAMANGALA CHUTNEYS,Koramangala', 'hotel_id': '361759', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE PINK POPPADOM, HYATT BANGALORE,MG Road', 'hotel_id': '59943', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.2', 'hotelname': 'THE SOFRAAH - EDEN PARK RESTAURANTS,Jayanagar', 'hotel_id': '61845', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.5', 'hotelname': "GEOFFREY'S, HOTEL ROYAL ORCHID,Airport Road", 'hotel_id': '2044', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.6', 'hotelname': 'SAAGA, THE ROYALE SENATE,Hebbal', 'hotel_id': '13344', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.7', 'hotelname': 'RAGA,Bannerghatta Main Road', 'hotel_id': '9141', 'totalvotes': u'13 Ratings'}
+{'rating': u'2.7', 'hotelname': 'THE DHABA,Marathahalli', 'hotel_id': '2617', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.4', 'hotelname': "EMGEE'S, THE SHELTON GRAND,MG Road", 'hotel_id': '2770', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAHARAJA RESTAURANT,Koramangala', 'hotel_id': '2225', 'totalvotes': u'16 Ratings'}
+{'rating': u'2.5', 'hotelname': 'EMPIRE RESTAURANT,Church Street', 'hotel_id': '14535', 'totalvotes': u'16 Ratings'}
+{'rating': u'4.1', 'hotelname': 'THE BOOZY GRIFFIN,Koramangala', 'hotel_id': '393685', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MEGHANA FOODS,Residency Road', 'hotel_id': '351049', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.9', 'hotelname': 'THE GRILL HOUSE,Indiranagar', 'hotel_id': '9334', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.8', 'hotelname': 'ROTI GHAR,Basavanagudi', 'hotel_id': '2244', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.8', 'hotelname': 'OKO, THE LALIT ASHOK,Kumara Park', 'hotel_id': '14865', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.9', 'hotelname': 'BIRIYANI ZONE,Marathahalli', 'hotel_id': '53610', 'totalvotes': u'13 Ratings'}
+{'rating': u'1.9', 'hotelname': 'SEASONS RESTAURANT,Electronics City', 'hotel_id': '382356', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.6', 'hotelname': 'LIDO, HYATT BANGALORE,MG Road', 'hotel_id': '8198', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.8', 'hotelname': 'CHULHA CHOWKI DA DHABA,JP Nagar', 'hotel_id': '54284', 'totalvotes': u'16 Ratings'}
+{'rating': u'2.5', 'hotelname': 'MAVALLI TIFFIN ROOM (MTR),Whitefield', 'hotel_id': '51809', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.9', 'hotelname': 'GOLDEN OAK, LA MARVELLA,Jayanagar', 'hotel_id': '55583', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.4', 'hotelname': 'THE GRILL AND CURRY BOWL,MG Road', 'hotel_id': '359276', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.9', 'hotelname': "TRADER VIC'S, PHOENIX MARKET CITY,Mahadevapura", 'hotel_id': '360159', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.9', 'hotelname': 'MAHESH LUNCH HOME,Residency Road', 'hotel_id': '364366', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.4', 'hotelname': 'PROST BREW PUB,Koramangala', 'hotel_id': '366972', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HYDERABAD RASOI,Marathahalli', 'hotel_id': '60497', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.7', 'hotelname': 'BBQ WORLD,Indiranagar', 'hotel_id': '331809', 'totalvotes': u'14 Ratings'}
+{'rating': u'4.3', 'hotelname': 'HAE KUM GANG,Ashoknagar', 'hotel_id': '1740', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.6', 'hotelname': 'ZERO G,Residency Road', 'hotel_id': '1898', 'totalvotes': u'13 Ratings'}
+{'rating': u'2.3', 'hotelname': 'NEEL RESTAURANT,Ashoknagar', 'hotel_id': '7516', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.4', 'hotelname': 'PECOS,Indiranagar', 'hotel_id': '7538', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.1', 'hotelname': 'MASALA KLUB, THE TAJ WEST END,Race Course Road', 'hotel_id': '8499', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.3', 'hotelname': 'DIM SUM,Koramangala', 'hotel_id': '9288', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.3', 'hotelname': "RAMANA'S,Cunningham Road", 'hotel_id': '2329', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.2', 'hotelname': 'JI HAZOOR RESTAURANT ,Whitefield', 'hotel_id': '372567', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.5', 'hotelname': "THE MOGHUL'S,HSR Layout", 'hotel_id': '363636', 'totalvotes': u'13 Ratings'}
+{'rating': u'2.7', 'hotelname': 'BEIJING BITES,Bannerghatta Main Road', 'hotel_id': '3632', 'totalvotes': u'16 Ratings'}
+{'rating': u'3.1', 'hotelname': 'KAATI ZONE,Church Street', 'hotel_id': '2421', 'totalvotes': u'13 Ratings'}
+{'rating': u'2.3', 'hotelname': 'NAGARJUNA,Koramangala', 'hotel_id': '350139', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.0', 'hotelname': "CHUNG'S PAVILION,Indiranagar", 'hotel_id': '2581', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.8', 'hotelname': 'BIRYANI PUNDITS,Koramangala', 'hotel_id': '190405', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.8', 'hotelname': 'LIKE THAT ONLY,Whitefield', 'hotel_id': '360706', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.9', 'hotelname': 'RENEE,Jayanagar', 'hotel_id': '57302', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MOCKAHOLIC,JP Nagar', 'hotel_id': '57990', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.2', 'hotelname': 'CALLISTA BAR AND KITCHEN,Marathahalli', 'hotel_id': '70991', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MOSCOW MULE, ROERICH HOTELS PVT. LTD,Koramangala', 'hotel_id': '351113', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.9', 'hotelname': 'CASA DEL SOL,Residency Road', 'hotel_id': '1726', 'totalvotes': u'11 Ratings'}
+{'rating': u'4.2', 'hotelname': 'RIM NAAM,  THE OBEROI,MG Road', 'hotel_id': '1837', 'totalvotes': u'11 Ratings'}
+{'rating': u'4.1', 'hotelname': 'UNICORN,Infantry Road', 'hotel_id': '1870', 'totalvotes': u'11 Ratings'}
+{'rating': u'1.4', 'hotelname': "WOODY'S,JP Nagar", 'hotel_id': '1942', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.1', 'hotelname': 'GINSENG, HOTEL ROYAL ORCHID,Airport Road', 'hotel_id': '1976', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.7', 'hotelname': 'JAMAVAR, THE LEELA PALACE,Airport Road', 'hotel_id': '1984', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.2', 'hotelname': 'FLAVORS OF CHINA,BTM Layout', 'hotel_id': '2187', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KUCH BHI,Jayanagar', 'hotel_id': '2216', 'totalvotes': u'11 Ratings'}
+{'rating': u'1.8', 'hotelname': 'HYDERABAD HOUSE,Richmond Town', 'hotel_id': '17052', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MADURAI IDLY SHOP,Koramangala', 'hotel_id': '33556', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.6', 'hotelname': 'OAK LEAF,BTM Layout', 'hotel_id': '41581', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.8', 'hotelname': 'CANTON,Jayanagar', 'hotel_id': '8919', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.3', 'hotelname': 'KAMAT LOKARUCHI,Mysore Road', 'hotel_id': '12259', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.7', 'hotelname': 'PRINCESS, HOTEL PAI COMFORTS,JP Nagar', 'hotel_id': '2615', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.9', 'hotelname': '9TH MILE DHABA,Yelahanka New Town', 'hotel_id': '4675', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.7', 'hotelname': 'PEBBLE,Sadashivnagar', 'hotel_id': '8428', 'totalvotes': u'19 Ratings'}
+{'rating': u'3.6', 'hotelname': 'ANNABRAHMA,Jayanagar', 'hotel_id': '43270', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PUNJABI RASOI,RT Nagar', 'hotel_id': '8760', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.7', 'hotelname': 'HOTEL NALAPAKA,Rajajinagar', 'hotel_id': '2100', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ARUSUVAI MADHURAM,HSR Layout', 'hotel_id': '366663', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.8', 'hotelname': "TGI FRIDAY'S,Ulsoor", 'hotel_id': '354895', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.1', 'hotelname': 'BYBLOS,Indiranagar', 'hotel_id': '374396', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.3', 'hotelname': 'PIND BALLUCHI,Magrath Road', 'hotel_id': '363728', 'totalvotes': u'12 Ratings'}
+{'rating': u'1.8', 'hotelname': 'OYE! AMRITSAR,Bannerghatta Main Road', 'hotel_id': '223325', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.8', 'hotelname': 'ELEMENTS HERITAGE,Frazer Town', 'hotel_id': '59253', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.8', 'hotelname': 'CHUNG WAH,Banashankari', 'hotel_id': '9498', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ROYAL ANDHRA SPICE,Rajarajeshwari Nagar', 'hotel_id': '184713', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.6', 'hotelname': 'SANGAM SWEETS,Gandhinagar', 'hotel_id': '220301', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.3', 'hotelname': 'SUVEE BOUTIQUE HOTEL,Banashankari', 'hotel_id': '222939', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.7', 'hotelname': 'TANDOORI HIPPIE,Domlur', 'hotel_id': '150955', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.6', 'hotelname': 'HIGHNOTE BAR AND DINING,Indiranagar', 'hotel_id': '50504', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.9', 'hotelname': 'ZHENG, BLUPETAL - A BUSINESS HOTEL,Koramangala', 'hotel_id': '50526', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SAARANGI, LA MARVELLA,Jayanagar', 'hotel_id': '55582', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.3', 'hotelname': 'LE ROCK PUB CAFE,Brigade Road', 'hotel_id': '2677', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.9', 'hotelname': 'BLU-O RHYTHM & BOWL,Mahadevapura', 'hotel_id': '365782', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.6', 'hotelname': 'BLIMEY,MG Road', 'hotel_id': '365954', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.9', 'hotelname': 'ZAITOON,Kodihalli', 'hotel_id': '366048', 'totalvotes': u'13 Ratings'}
+{'rating': u'4.1', 'hotelname': 'HEALTHY AFFAIR,Indiranagar', 'hotel_id': '58072', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.1', 'hotelname': "DESMOND'S,Lavelle Road", 'hotel_id': '1733', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ITALIA, THE PARK,MG Road', 'hotel_id': '1817', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.6', 'hotelname': 'TAVERN AT THE INN, MUSEUM INN,Museum Road', 'hotel_id': '1888', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.2', 'hotelname': 'PINXX, ROYAL ORCHID CENTRAL,Dickenson Road', 'hotel_id': '1960', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LIMELIGHT, HOTEL ROYAL ORCHID,Airport Road', 'hotel_id': '1994', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.7', 'hotelname': 'THE RAJ PAVILION, ITC WINDSOR,Golf Course Road', 'hotel_id': '2137', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.8', 'hotelname': 'POTLUCK VEGETARIAN RESTAURANT,BTM Layout 2nd Stage', 'hotel_id': '32976', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.5', 'hotelname': 'DESI WOK,Bannerghatta Main Road', 'hotel_id': '43971', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.9', 'hotelname': 'RED BAMBOO,Marathahalli', 'hotel_id': '47515', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.6', 'hotelname': 'ISYS, THE PRESIDENT HOTEL,Jayanagar', 'hotel_id': '5999', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.1', 'hotelname': 'GRAZE, VIVANTA BY TAJ,MG Road', 'hotel_id': '7407', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.1', 'hotelname': 'SANA-DI-GE, GOLDFINCH HOTEL,Cresent Road', 'hotel_id': '7631', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.4', 'hotelname': 'PAI VICEROY,Jayanagar', 'hotel_id': '9036', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.2', 'hotelname': 'DAKHANI DEGH,Jayanagar', 'hotel_id': '12687', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.6', 'hotelname': "ADIGA'S NALAPAK,Bannerghatta Main Road", 'hotel_id': '2636', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.6', 'hotelname': 'SLV RAGIGUDDA,JP Nagar', 'hotel_id': '3738', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.4', 'hotelname': 'AIRLINES, AIRLINES HOTEL,Lavelle Road', 'hotel_id': '2365', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.4', 'hotelname': 'WILD SPICE,Residency Road', 'hotel_id': '2426', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SHIV SAGAR,Shivajinagar', 'hotel_id': '2315', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.4', 'hotelname': 'BON AROMA,Jayanagar', 'hotel_id': '190327', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SANJEEVANAM,Koramangala', 'hotel_id': '56568', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHILLI PEPPER,Marathahalli', 'hotel_id': '14700', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.6', 'hotelname': 'CAFE MALABARI,Koramangala', 'hotel_id': '226517', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.8', 'hotelname': "PALKI'S,Bellandur", 'hotel_id': '369380', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.9', 'hotelname': 'DELICACY,Koramangala', 'hotel_id': '19079', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.0', 'hotelname': 'HOTEL JUNIOR KUPPANNA,Koramangala', 'hotel_id': '367595', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.3', 'hotelname': "RAGOO'S,Jayanagar", 'hotel_id': '2240', 'totalvotes': u'10 Ratings'}
+{'rating': u'1.4', 'hotelname': 'EMPIRE RESTAURANT,Indiranagar', 'hotel_id': '56578', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.3', 'hotelname': 'THE NAWAB, THE SOLITAIRE HOTEL,Kumara Park', 'hotel_id': '8547', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.6', 'hotelname': 'MAST KALANDAR,New BEL Road', 'hotel_id': '13339', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.5', 'hotelname': 'MAST KALANDAR,Jayanagar', 'hotel_id': '50885', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.2', 'hotelname': 'AANGAN,Koramangala', 'hotel_id': '2666', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.4', 'hotelname': 'FILLING STATION,Koramangala', 'hotel_id': '2185', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CHUNG WAH OPUS,JP Nagar', 'hotel_id': '222163', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.4', 'hotelname': 'EDEN PARK,Shivajinagar', 'hotel_id': '4672', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.6', 'hotelname': 'LITTLE HOME,Koramangala', 'hotel_id': '2222', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.5', 'hotelname': 'ZINGRON,Koramangala', 'hotel_id': '62989', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SHITAKKE,Sarjapur Road', 'hotel_id': '222109', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.3', 'hotelname': 'IN THE PINK ORGANIC BAZAAR AND VEGETARIAN RESTAURANT,BTM Layout 2nd Stage', 'hotel_id': '150841', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.2', 'hotelname': 'LA CASA,Sarjapur Road', 'hotel_id': '52427', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.2', 'hotelname': 'TROIKA,Indiranagar', 'hotel_id': '376814', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.1', 'hotelname': 'ARBOR BREWING COMPANY,Magrath Road', 'hotel_id': '364737', 'totalvotes': u'17 Ratings'}
+{'rating': u'2.1', 'hotelname': 'KUTTANADU,HSR Layout', 'hotel_id': '355966', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.5', 'hotelname': "WANG'S KITCHEN,Cunningham Road", 'hotel_id': '366207', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.1', 'hotelname': 'YIN YANG CHINESE & THAI RESTAURANT,Banashankari', 'hotel_id': '57932', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.0', 'hotelname': '13 SPICES,Koramangala', 'hotel_id': '57943', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.8', 'hotelname': 'SLV REFRESHMENTS,Banashankari', 'hotel_id': '60253', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.6', 'hotelname': "CHEF BAKER'S,Indiranagar", 'hotel_id': '66449', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.2', 'hotelname': 'KUKKARE,Koramangala', 'hotel_id': '70843', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.5', 'hotelname': 'KARAVALLI, THE GATEWAY HOTEL,Residency Road', 'hotel_id': '1819', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.9', 'hotelname': 'MEMORIES OF CHINA, VIVANTA BY TAJ,MG Road', 'hotel_id': '1833', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.8', 'hotelname': 'ULLAS REFRESHMENTS,MG Road', 'hotel_id': '1869', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.2', 'hotelname': 'THE BAWARCHI,Banaswadi', 'hotel_id': '13126', 'totalvotes': u'13 Ratings'}
+{'rating': u'3.4', 'hotelname': 'RAJDHANI SNACKLET,Koramangala', 'hotel_id': '34278', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SARKAR,Malleshwaram', 'hotel_id': '41912', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.7', 'hotelname': 'REPUBLIC OF NOODLES, LEMON TREE HOTEL,Electronics City', 'hotel_id': '46888', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.0', 'hotelname': 'DAL TADKAA,Kathriguppe Main Road', 'hotel_id': '8381', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.4', 'hotelname': 'ZHANGS CHINESE RESTAURANT,JP Nagar', 'hotel_id': '9199', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.4', 'hotelname': 'SWADH DESI, S HOTEL,JP Nagar', 'hotel_id': '9467', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.6', 'hotelname': 'HEJJE (AT RASA),Malleshwaram', 'hotel_id': '12962', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.3', 'hotelname': 'CASA PICOLA,Jayanagar', 'hotel_id': '2772', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.2', 'hotelname': 'THE RICE BOWL,Lavelle Road', 'hotel_id': '2322', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.1', 'hotelname': 'KEBAB MAGIC,Basavanagudi', 'hotel_id': '2377', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.6', 'hotelname': 'BARBEQUE FACTORY,Indiranagar', 'hotel_id': '391347', 'totalvotes': u'23 Ratings'}
+{'rating': u'3.9', 'hotelname': 'AYDA,Church Street', 'hotel_id': '2417', 'totalvotes': u'9 Ratings'}
+{'rating': u'1.7', 'hotelname': 'OYE! AMRITSAR,Indiranagar', 'hotel_id': '365706', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.6', 'hotelname': "DOMINO'S PIZZA,Koramangala", 'hotel_id': '1763', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.4', 'hotelname': 'MAST KALANDAR,Church Street', 'hotel_id': '13028', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.6', 'hotelname': 'PULIMUNCHI,Sadashivnagar', 'hotel_id': '352155', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.0', 'hotelname': 'EDO - JAPANESE RESTAURANT AND BAR, ITC GARDENIA,Residency Road', 'hotel_id': '57141', 'totalvotes': u'11 Ratings'}
+{'rating': u'4.3', 'hotelname': 'DIALACHAAT,Dodda Nakkundi', 'hotel_id': '361411', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.7', 'hotelname': 'ADYAR ANANDA BHAVAN,Indiranagar', 'hotel_id': '17686', 'totalvotes': u'13 Ratings'}
+{'rating': u'2.0', 'hotelname': 'HOTEL IMPERIAL,Koramangala', 'hotel_id': '2783', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.3', 'hotelname': 'BEIJING BITES,Koramangala', 'hotel_id': '1786', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.3', 'hotelname': 'KABAB STUDIO, CORALTREE BY GOLDFINCH,RT Nagar', 'hotel_id': '52429', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.1', 'hotelname': "SATYA'S,Koramangala", 'hotel_id': '53164', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.9', 'hotelname': 'BISTRO GRILL EXPRESS,Jayanagar', 'hotel_id': '53403', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.9', 'hotelname': 'NAATI MANAE,Koramangala', 'hotel_id': '54276', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.4', 'hotelname': 'CREPE CONNECTION - UB CITY,Vittal Mallya Road', 'hotel_id': '54373', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.3', 'hotelname': 'PUNJ-AAB,Old Madras Road', 'hotel_id': '54856', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.9', 'hotelname': 'NAGA KITCHEN,Kammanahalli Main Road', 'hotel_id': '57080', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE CHOCOLATE ROOM,Brigade Road', 'hotel_id': '351853', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.9', 'hotelname': 'HEALTH ZINGO,Sarjapur Road', 'hotel_id': '356182', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.2', 'hotelname': 'SAFFRON VEGETARIAN CUISINE,Banaswadi', 'hotel_id': '362609', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.6', 'hotelname': 'MEZZEH,Indiranagar', 'hotel_id': '62085', 'totalvotes': u'11 Ratings'}
+{'rating': u'4.3', 'hotelname': 'RED FORT,Koramangala', 'hotel_id': '64783', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.4', 'hotelname': 'SUKH SAGAR,Gandhinagar', 'hotel_id': '1934', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ZEN, THE LEELA PALACE,Airport Road', 'hotel_id': '2041', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE BLUE BAR, THE TAJ WEST END,Race Course Road', 'hotel_id': '2150', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.1', 'hotelname': 'TAMARIND,Kalyan Nagar', 'hotel_id': '13492', 'totalvotes': u'11 Ratings'}
+{'rating': u'2.4', 'hotelname': 'SUCHITRA BIRYANI HOUSE,Murgesh Palya', 'hotel_id': '14894', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.0', 'hotelname': 'XYKA,Bannerghatta Main Road', 'hotel_id': '15197', 'totalvotes': u'8 Ratings'}
+{'rating': u'1.7', 'hotelname': 'BAY OF BENGAL,Indiranagar', 'hotel_id': '47314', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.5', 'hotelname': 'BAY OF BENGAL,St. Marks Road', 'hotel_id': '8186', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.9', 'hotelname': 'BEAN HERE, THE SOLITAIRE HOTEL,Kumara Park', 'hotel_id': '8663', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.1', 'hotelname': 'THE SIDEWALK CAFE, THE PAUL,Domlur', 'hotel_id': '8831', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.9', 'hotelname': 'SILSILA, SILICREST HOTEL,Koramangala', 'hotel_id': '9318', 'totalvotes': u'8 Ratings'}
+{'rating': u'1.8', 'hotelname': 'SUKH SAGAR,Koramangala', 'hotel_id': '2318', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.6', 'hotelname': 'HYPNOS,Infantry Road', 'hotel_id': '2388', 'totalvotes': u'8 Ratings'}
+{'rating': u'0.9', 'hotelname': 'ALIBI,Church Street', 'hotel_id': '2416', 'totalvotes': u'17 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SATTVAM,Sadashivnagar', 'hotel_id': '367754', 'totalvotes': u'15 Ratings'}
+{'rating': u'3.8', 'hotelname': 'ICE BAR, VIVANTA BY TAJ,MG Road', 'hotel_id': '1878', 'totalvotes': u'12 Ratings'}
+{'rating': u'4.5', 'hotelname': 'CHATKHARA,Domlur', 'hotel_id': '50820', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MYNT, THE TAJ WEST END,Race Course Road', 'hotel_id': '2114', 'totalvotes': u'8 Ratings'}
+{'rating': u'1.5', 'hotelname': 'BEIJING BITES,Whitefield', 'hotel_id': '34998', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.2', 'hotelname': 'BEIJING BITES,Frazer Town', 'hotel_id': '9370', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.5', 'hotelname': 'MAINLAND CHINA ,Jayanagar', 'hotel_id': '226807', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.3', 'hotelname': 'MAST KALANDAR,Sadashivnagar', 'hotel_id': '41203', 'totalvotes': u'8 Ratings'}
+{'rating': u'1.8', 'hotelname': 'MALABAR,Jeevanbheema Nagar', 'hotel_id': '41761', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHAARCOALS, HOTEL REGAALIS,Lavelle Road', 'hotel_id': '1728', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.8', 'hotelname': 'DEJA VU RESTOBAR,Bannerghatta Main Road', 'hotel_id': '365485', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.8', 'hotelname': 'DHEKUR,Outer Ring Road', 'hotel_id': '352507', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.7', 'hotelname': 'GOWDRU MILITARY HOTEL,Indiranagar', 'hotel_id': '42320', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.3', 'hotelname': 'GUZZLERS INN PUB,Brigade Road', 'hotel_id': '1876', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.1', 'hotelname': 'ZAOQ - INDIAN CUISINE,Frazer Town', 'hotel_id': '156771', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.4', 'hotelname': 'SHAO, HOTEL PARK PLAZA,Marathahalli', 'hotel_id': '225151', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MELANGE, HOTEL PARK PLAZA,Marathahalli', 'hotel_id': '225155', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.8', 'hotelname': 'REWIND,Kammanahalli Main Road', 'hotel_id': '151147', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.1', 'hotelname': 'BY THE BLUE, GRAND MERCURE HOTEL,Koramangala', 'hotel_id': '50389', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'POSH PALATES,Sarjapur Road', 'hotel_id': '52500', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MOMOZ CHINESE DELICACY,Koramangala', 'hotel_id': '52692', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.7', 'hotelname': 'HYDERABADI BIRIYANI,Richmond Town', 'hotel_id': '55174', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': 'CAFE PASCUCCI,Malleshwaram', 'hotel_id': '55638', 'totalvotes': u'7 Ratings'}
+{'rating': u'1.7', 'hotelname': 'BHAGINI OUR VILLAGE,Murgesh Palya', 'hotel_id': '154907', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.4', 'hotelname': 'VINDU BAR & RESTAURANT,Jayanagar', 'hotel_id': '353625', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE HAVE MORE,Jayanagar', 'hotel_id': '356861', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': 'MANGROVE,Kalyan Nagar', 'hotel_id': '356922', 'totalvotes': u'12 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BARBEQUE NATION,Whitefield', 'hotel_id': '360330', 'totalvotes': u'12 Ratings'}
+{'rating': u'2.7', 'hotelname': 'NOODLE BAR,Mahadevapura', 'hotel_id': '363749', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.9', 'hotelname': 'VEMBANAD, THE PAUL,Domlur', 'hotel_id': '57766', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.7', 'hotelname': 'ZAFRAAN RESTAURANT,CV Raman Nagar', 'hotel_id': '59467', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.1', 'hotelname': 'MASALA DANI, THE PAUL,Domlur', 'hotel_id': '59747', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SHAWARMA KING,Frazer Town', 'hotel_id': '62223', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SPICES,Sarjapur Road', 'hotel_id': '64685', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.9', 'hotelname': 'THE BAAGHA,Whitefield', 'hotel_id': '65681', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.8', 'hotelname': 'PARIKA MULTI-CUISINE & COASTAL FINE DINE,HSR Layout', 'hotel_id': '328503', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'RAJDHANI THALI RESTAURANT,Mahadevapura', 'hotel_id': '343801', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.7', 'hotelname': 'BOONDOCK BISTRO,Whitefield', 'hotel_id': '368142', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.2', 'hotelname': 'TOSCANO,Malleshwaram', 'hotel_id': '358734', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.6', 'hotelname': "WOODY'S,Shivajinagar", 'hotel_id': '1753', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.9', 'hotelname': 'GOKUL,Rajajinagar', 'hotel_id': '2093', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.1', 'hotelname': 'DEGCHI,Banaswadi', 'hotel_id': '7251', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.6', 'hotelname': "CHUNG'S,Jayanagar", 'hotel_id': '8098', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.7', 'hotelname': 'KAIRALI,Koramangala', 'hotel_id': '8410', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.7', 'hotelname': 'HOTEL ANNAPOORANI,Indiranagar', 'hotel_id': '12239', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.3', 'hotelname': 'H2O,Marathahalli', 'hotel_id': '13080', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CHUNG CHINESE CORNER,Cunningham Road', 'hotel_id': '2579', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'HALLI THINDI,Basavanagudi', 'hotel_id': '2367', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': 'JASHN,RMV Extension', 'hotel_id': '47973', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': "ACHAYYAN'S,Indiranagar", 'hotel_id': '154783', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.1', 'hotelname': 'MEGHANA FOODS RESTAURANT,Jayanagar', 'hotel_id': '58441', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.9', 'hotelname': 'I-BAR, THE PARK,MG Road', 'hotel_id': '1877', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.1', 'hotelname': 'NANDHINI DELUXE,New BEL Road', 'hotel_id': '9142', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.1', 'hotelname': 'CHALO AMRITSAR,Koramangala', 'hotel_id': '65773', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ANAND SWEETS,Koramangala', 'hotel_id': '1779', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.9', 'hotelname': 'CITRA,Devasandra', 'hotel_id': '59229', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GOKUL KUTEERA VEG,Indiranagar', 'hotel_id': '2462', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.4', 'hotelname': 'ALORO, CROWNE PLAZA BENGALURU,Electronics City', 'hotel_id': '14536', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.6', 'hotelname': 'THE NINJA,Koramangala', 'hotel_id': '395282', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.1', 'hotelname': 'MARHABA ,Indiranagar', 'hotel_id': '364423', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.4', 'hotelname': 'BEIJING BITES,BTM Layout 2nd Stage', 'hotel_id': '237909', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.1', 'hotelname': 'AURO GRACE,Whitefield', 'hotel_id': '184711', 'totalvotes': u'7 Ratings'}
+{'rating': u'1.8', 'hotelname': 'YO! CHINA,Marathahalli', 'hotel_id': '12158', 'totalvotes': u'8 Ratings'}
+{'rating': u'1.6', 'hotelname': 'BEIJING BITES,Kaggadasapura', 'hotel_id': '354867', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'VEEKES AND THOMAS,Sarjapur Road', 'hotel_id': '186507', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.0', 'hotelname': 'EMPIRE RESTAURANT, EMPIRE SUITES,Ashoknagar', 'hotel_id': '187845', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SOUL - AT THE COURTYARD,Koramangala', 'hotel_id': '149413', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.5', 'hotelname': "SHAASHI'S,Whitefield", 'hotel_id': '151141', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.2', 'hotelname': 'WEST VIEW, ITC GARDENIA,Residency Road', 'hotel_id': '49941', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GANDHARVA SIP N DINE MULTI CUISINE RESTAURANT,Vijaynagar', 'hotel_id': '51097', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.8', 'hotelname': 'HYDERABAD CUISINE,Whitefield', 'hotel_id': '52400', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CAFE MAX,Indiranagar', 'hotel_id': '52540', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.7', 'hotelname': 'MYILAI MASALA,JP Nagar', 'hotel_id': '55134', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.1', 'hotelname': 'BLEECKER STREET - THE FOOD STREET,Sarjapur Road', 'hotel_id': '71893', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SEA ROUTE,Rajajinagar', 'hotel_id': '384595', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.1', 'hotelname': 'THE TUCK SHOP,Koramangala', 'hotel_id': '376497', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.6', 'hotelname': 'SMOKE HOUSE DELI,Lavelle Road', 'hotel_id': '381270', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': '3 MONKEYS BREWPUB,Old Madras Road', 'hotel_id': '392346', 'totalvotes': u'18 Ratings'}
+{'rating': u'3.8', 'hotelname': 'REPUBLIC OF NOODLES, LEMON TREE PREMIER,Ulsoor', 'hotel_id': '349655', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.4', 'hotelname': 'TEPPAN JAPANESE GRILL & SUSHI BAR,Ulsoor', 'hotel_id': '356596', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SOUL KADHI,Richmond Town', 'hotel_id': '356722', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.6', 'hotelname': 'KOBE SIZZLERS,Indiranagar', 'hotel_id': '357585', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE PLATTER,Banashankari', 'hotel_id': '357624', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.4', 'hotelname': 'SNACK THAT,HSR Layout', 'hotel_id': '366229', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'FUD FUZION,Electronics City', 'hotel_id': '366690', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CHULHA CHAUKI DA DHABA,Kalyan Nagar', 'hotel_id': '57548', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.0', 'hotelname': 'AL RAHA,Koramangala', 'hotel_id': '57959', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.3', 'hotelname': 'KAAYAL,Brookefield', 'hotel_id': '59565', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.6', 'hotelname': "ANUPAM'S COAST II COAST,MG Road", 'hotel_id': '67161', 'totalvotes': u'9 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SHIV SAGAR,Malleshwaram', 'hotel_id': '70995', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.7', 'hotelname': 'MANDARIN EXPRESS,Church Street', 'hotel_id': '344039', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.1', 'hotelname': 'MOTHER CLUCKERS BAR,Indiranagar', 'hotel_id': '367766', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': "THE HELL'S KITCHEN,HSR Layout", 'hotel_id': '368539', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'TILT GASTROPUB,Koramangala', 'hotel_id': '367730', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.3', 'hotelname': 'CANOPY,MG Road', 'hotel_id': '1725', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.7', 'hotelname': 'HOTEL BARBEES,Dickenson Road', 'hotel_id': '1746', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KABAB KORNER,Koramangala', 'hotel_id': '1797', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SHANGRILA BAR & RESTAURANT,Brigade Road', 'hotel_id': '1845', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.1', 'hotelname': 'THE LEGACY OF PUNJAB, HOTEL RAMANASHREE,Richmond Town', 'hotel_id': '1860', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THE SZECHWAN COURT, THE OBEROI,MG Road', 'hotel_id': '1863', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.6', 'hotelname': 'TIFFANYS,Residency Road', 'hotel_id': '1895', 'totalvotes': u'7 Ratings'}
+{'rating': u'1.8', 'hotelname': 'SHEZAN RESTAURANT,Cunningham Road', 'hotel_id': '14699', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.5', 'hotelname': 'THE URBAN NAWAAB,Marathahalli', 'hotel_id': '15220', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.3', 'hotelname': 'HYDERABADI BIRYANI,Bannerghatta Main Road', 'hotel_id': '30296', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'BANJARA, GOLDFINCH HOTEL,Cresent Road', 'hotel_id': '7230', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.5', 'hotelname': 'YOKO SIZZLERS,Church Street', 'hotel_id': '8159', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.5', 'hotelname': 'AMRUTH,St. Marks Road', 'hotel_id': '8314', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.5', 'hotelname': 'KKRISHI,Jayanagar', 'hotel_id': '8617', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.8', 'hotelname': 'TANDOOR EXPRESS,Banashankari', 'hotel_id': '8656', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.6', 'hotelname': 'YO! CHINA,Koramangala', 'hotel_id': '9140', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.1', 'hotelname': 'LA GARDENIA, HOTEL REGAALIS,Lavelle Road', 'hotel_id': '12980', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.6', 'hotelname': 'SOUL CITY, UB CITY,Vittal Mallya Road', 'hotel_id': '13063', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.5', 'hotelname': 'UPAHAR SAGAR,Banashankari', 'hotel_id': '2593', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.2', 'hotelname': "CHUNG'S,JP Nagar", 'hotel_id': '2607', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.3', 'hotelname': 'SWEET CHARIOT CAFE,Cunningham Road', 'hotel_id': '2633', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.3', 'hotelname': 'MAHALAXMI TIFFIN ROOM,Basavanagudi', 'hotel_id': '2224', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.0', 'hotelname': 'PAVITHRA RESTAURANT,Jayanagar', 'hotel_id': '2236', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SLV CORNER,Basavanagudi', 'hotel_id': '2253', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.3', 'hotelname': "SONAKSHI SHARMA'S FAMILY RESTAURANT,Koramangala", 'hotel_id': '2255', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.9', 'hotelname': 'TANDOORI NIGHT PARK INN RESTAURANT,Jayanagar', 'hotel_id': '2265', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.1', 'hotelname': 'KABAB KORNER,St. Marks Road', 'hotel_id': '2310', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TIJOURI, THE ATRIA HOTEL,Palace Road', 'hotel_id': '2334', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.0', 'hotelname': 'UDUPI SRI KRISHNA BHAVAN,Balepete', 'hotel_id': '2405', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SINGHZ - THE PUNJABI CUISINE RESTAURANT,Marathahalli', 'hotel_id': '54085', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.8', 'hotelname': 'KAHWA, THE ZURI,Whitefield', 'hotel_id': '13736', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.3', 'hotelname': 'SONAS KODIAL,Malleshwaram', 'hotel_id': '22684', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.8', 'hotelname': 'TIM TAI,Koramangala', 'hotel_id': '399479', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.5', 'hotelname': 'RAJDHANI THALI RESTAURANT,Indiranagar', 'hotel_id': '356638', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.7', 'hotelname': 'TADKA SINGH,Indiranagar', 'hotel_id': '385436', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.1', 'hotelname': 'CHAKH LEH INDIA,Nagarabhavi', 'hotel_id': '353617', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BANGALIANA,Koramangala', 'hotel_id': '2335', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.3', 'hotelname': 'DELICACY,Frazer Town', 'hotel_id': '47767', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.7', 'hotelname': 'MAST KALANDAR,JP Nagar', 'hotel_id': '219313', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SRI KRISHNA SAGAR,HSR Layout', 'hotel_id': '2622', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.2', 'hotelname': 'KAATI ZONE - BENGALURU INTERNATIONAL AIRPORT,Airport Road', 'hotel_id': '8672', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.5', 'hotelname': 'DARBAR,Domlur', 'hotel_id': '12958', 'totalvotes': u'6 Ratings'}
+{'rating': u'5.0', 'hotelname': 'DUM PUKHT JOLLY NABOBS, ITC WINDSOR,Golf Course Road', 'hotel_id': '2324', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.7', 'hotelname': 'CHUNG WAH,Frazer Town', 'hotel_id': '30088', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MOMO HUT,Koramangala', 'hotel_id': '35299', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.2', 'hotelname': "VASUDEV ADIGA'S,Majestic Area", 'hotel_id': '55401', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TASTE OF INDIA,Hosur Road', 'hotel_id': '244235', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.4', 'hotelname': 'THE CHARIOT,Brigade Road', 'hotel_id': '244255', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.8', 'hotelname': 'PINGARA FAMILY RESTAURANT AND BAR,Koramangala', 'hotel_id': '49702', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.4', 'hotelname': 'THE OTHER CRESENT,Basavanagudi', 'hotel_id': '55284', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.4', 'hotelname': 'BENE, SHERATON BANGALORE,Malleshwaram', 'hotel_id': '154971', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.2', 'hotelname': 'SUGGI,Basaveshwara Nagar', 'hotel_id': '31141', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE FATTY BAO - ASIAN GASTRO BAR,Indiranagar', 'hotel_id': '397399', 'totalvotes': u'14 Ratings'}
+{'rating': u'1.9', 'hotelname': 'ZAICA,Indiranagar', 'hotel_id': '376617', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.7', 'hotelname': 'RAJDHANI THALI RESTAURANT,Bannerghatta Main Road', 'hotel_id': '356641', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.8', 'hotelname': 'ESHANYA,Jayanagar', 'hotel_id': '358198', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'OM VEG RESTAURANT,Koramangala', 'hotel_id': '361640', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BISTRO CLAYTOPIA,Koramangala', 'hotel_id': '361818', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.6', 'hotelname': 'NIZAMS PARADISE,HSR Layout', 'hotel_id': '361962', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.2', 'hotelname': 'THE LITTLE CHEF,HSR Layout', 'hotel_id': '364726', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.8', 'hotelname': 'CAFE NOIR,Malleshwaram', 'hotel_id': '365234', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.6', 'hotelname': 'AXOMI TASTE OF ASSAM,Koramangala', 'hotel_id': '365527', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MEKONG,Sarjapur Road', 'hotel_id': '365612', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.2', 'hotelname': 'NEWS CAFE,Indiranagar', 'hotel_id': '366835', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.2', 'hotelname': 'KUDLA,HSR Layout', 'hotel_id': '59173', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.6', 'hotelname': 'HOTEL CHANDRIKA,Cunningham Road', 'hotel_id': '1743', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.7', 'hotelname': 'HOTEL EMPIRE,Shivajinagar', 'hotel_id': '1769', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.6', 'hotelname': 'GURUKRUPA PARATHA HOUSE,Domlur', 'hotel_id': '1803', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.8', 'hotelname': 'HOTEL KHAZANA,Richmond Town', 'hotel_id': '1807', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.5', 'hotelname': 'LA MADELEINE,Lavelle Road', 'hotel_id': '1825', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE POLO CLUB, THE OBEROI,MG Road', 'hotel_id': '1893', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.6', 'hotelname': 'ROOMALI WITH A VIEW,Marathahalli', 'hotel_id': '13186', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAKE, THE ZURI,Whitefield', 'hotel_id': '13739', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.6', 'hotelname': 'LATITUDE, VIVANTA BY TAJ,Whitefield', 'hotel_id': '13963', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ZODIAC, FORTUNE SELECT TRINITY,Whitefield', 'hotel_id': '14523', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.4', 'hotelname': 'BURGUNDY, ROYAL ORCHID SUITES,Whitefield', 'hotel_id': '14863', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.8', 'hotelname': 'HIGHLAND NECTAR, ITC GARDENIA,Residency Road', 'hotel_id': '43263', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.6', 'hotelname': 'CALCUTTA ON A ROLL,Indiranagar', 'hotel_id': '47072', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.2', 'hotelname': 'INDIAN OVEN,Marathahalli', 'hotel_id': '47510', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KONARK RESTAURANT,Shivajinagar', 'hotel_id': '7207', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.8', 'hotelname': 'SETHJI HOMEMADE FOODS,Indiranagar', 'hotel_id': '7304', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MEHEK,Bannerghatta Main Road', 'hotel_id': '7489', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.8', 'hotelname': 'NEW PRAYAG VEGETARIAN RESTAURANT,Koramangala', 'hotel_id': '8072', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.4', 'hotelname': 'SHOGUN,Marathahalli', 'hotel_id': '8491', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TERRACE NATION,Koramangala', 'hotel_id': '9445', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.2', 'hotelname': 'EAST WINDS, S HOTEL,JP Nagar', 'hotel_id': '9469', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.6', 'hotelname': 'THE LEMON GRASS RESTAURANT AND BAR,Koramangala', 'hotel_id': '12217', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.2', 'hotelname': "KOLLAPURI'S,Basavanagudi", 'hotel_id': '2604', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.4', 'hotelname': 'GURU PALACE,Bannerghatta Main Road', 'hotel_id': '2638', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SPICE CURRY,Indiranagar', 'hotel_id': '2809', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.6', 'hotelname': 'SEA ROCK,Basavanagudi', 'hotel_id': '2247', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'NEWS FRIENDS RESTAURANT,BTM Layout', 'hotel_id': '2268', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.0', 'hotelname': 'IMPERIAL RESTAURANT,Residency Road', 'hotel_id': '2305', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SRI GURU KOTTURESHWARA BENNE DOSA HOTEL,Basavanagudi', 'hotel_id': '2370', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.2', 'hotelname': 'KEBAB MAGIC,Jayanagar', 'hotel_id': '2398', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.5', 'hotelname': 'VIKING FAMILY BAR & RESTAURANT,Malleshwaram', 'hotel_id': '2460', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.1', 'hotelname': 'FOOD CAMP,Malleshwaram', 'hotel_id': '2461', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.6', 'hotelname': 'HOTEL EMIRATES,RT Nagar', 'hotel_id': '155025', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BIG PITCHER,Kodihalli', 'hotel_id': '395629', 'totalvotes': u'16 Ratings'}
+{'rating': u'2.7', 'hotelname': 'THE CLUB,Mysore Road', 'hotel_id': '12218', 'totalvotes': u'8 Ratings'}
+{'rating': u'2.7', 'hotelname': 'GINGER TIGER,Indiranagar', 'hotel_id': '390362', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SHIV SAGAR,Basavanagudi', 'hotel_id': '2695', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.2', 'hotelname': 'DELHI WALLE,Whitefield', 'hotel_id': '55500', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.8', 'hotelname': "CHUNG'S CHINESE CORNER,Malleshwaram", 'hotel_id': '12902', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CARROTS RESTAURANT,Koramangala', 'hotel_id': '366609', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KOHINOOR,HSR Layout', 'hotel_id': '14665', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'NANDHINI RESTAURANT, HOTEL NANDHINI ,Whitefield', 'hotel_id': '9101', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ZAFFRAN,Malleshwaram', 'hotel_id': '360915', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.3', 'hotelname': 'MAST KALANDAR,Bannerghatta Main Road', 'hotel_id': '59087', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.2', 'hotelname': 'KAATI ZONE,Marathahalli', 'hotel_id': '8670', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.9', 'hotelname': 'BREWSKY,JP Nagar', 'hotel_id': '388942', 'totalvotes': u'10 Ratings'}
+{'rating': u'4.2', 'hotelname': 'HOLY FLAMES, CARTIER MARATHALLI,', 'hotel_id': '408297', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.8', 'hotelname': 'HIGH ULTRA LOUNGE,Malleshwaram', 'hotel_id': '392305', 'totalvotes': u'16 Ratings'}
+{'rating': u'2.5', 'hotelname': 'LA CASA,Kalyan Nagar', 'hotel_id': '54825', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': '24/7, THE LALIT ASHOK,Kumara Park', 'hotel_id': '2073', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.4', 'hotelname': 'BEIJING BITES,Banashankari', 'hotel_id': '7212', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.6', 'hotelname': 'BEIJING BITES,New BEL Road', 'hotel_id': '9063', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.2', 'hotelname': 'BAGEECHA,Airport Road', 'hotel_id': '12033', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CURRY TOAST,Koramangala', 'hotel_id': '62235', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.4', 'hotelname': 'CLOVE, KANDI TREE HOTEL,Jayanagar', 'hotel_id': '15186', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.0', 'hotelname': 'DUBLIN, ITC WINDSOR,Golf Course Road', 'hotel_id': '2145', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.2', 'hotelname': 'FRESKKA,Sahakara Nagar', 'hotel_id': '374832', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.1', 'hotelname': 'HOTEL IMPERIAL,Indiranagar', 'hotel_id': '1793', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'LEGUMES,Jeevanbheema Nagar', 'hotel_id': '241721', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'EMPIRE RESTAURANT,Frazer Town', 'hotel_id': '187857', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': "DEWAR'S MARINE SEAFOOD,Ulsoor", 'hotel_id': '192537', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'CASA RAVIERA,Cunningham Road', 'hotel_id': '150449', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TIME TRAVELLER,Electronics City', 'hotel_id': '51922', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.8', 'hotelname': 'TANGO CALYPSO,Richmond Town', 'hotel_id': '52075', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'MOMOZ CHINESE DELICACY,Kammanahalli Main Road', 'hotel_id': '52693', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.3', 'hotelname': 'KABAB MASTI,HSR Layout', 'hotel_id': '55147', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'OMG!! RESTAURANT & BAR,Residency Road', 'hotel_id': '56221', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE BIERE CLUB CHOPHOUSE,Vittal Mallya Road', 'hotel_id': '152535', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE PESHWA RESTAURANT,JP Nagar', 'hotel_id': '153439', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.4', 'hotelname': 'KOLKATA RESTAURANT,Whitefield', 'hotel_id': '153585', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.8', 'hotelname': 'PAUSHTIK VEG SOLUTIONS,Sarjapur Road', 'hotel_id': '152379', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.7', 'hotelname': 'BIERRE REPUBLIC,Church Street', 'hotel_id': '393371', 'totalvotes': u'10 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TIFFINBOX ETC,Whitefield', 'hotel_id': '396431', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.9', 'hotelname': 'MESA CAFE GLOBAL BUFFET, SVENSKA DESIGN HOTEL,Electronics City', 'hotel_id': '382980', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.7', 'hotelname': 'MAHARAJA BHOG - PREMIUM VEG THALI,Vittal Mallya Road', 'hotel_id': '385837', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.7', 'hotelname': 'KAVA, FAIRFIELD BY MARRIOTT,Rajajinagar', 'hotel_id': '385984', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MATSURI RESTAURANT, THE CHANCERY HOTEL,Lavelle Road', 'hotel_id': '376338', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.2', 'hotelname': 'SANCTUM,Residency Road', 'hotel_id': '379130', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.2', 'hotelname': 'LOFT 38,Indiranagar', 'hotel_id': '390066', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'GOLMAAL PARATHA,BTM Layout 2nd Stage', 'hotel_id': '64165', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.3', 'hotelname': 'MIRCH MASALA,BTM Layout', 'hotel_id': '2204', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.8', 'hotelname': 'MY PLACE, MOVENPICK HOTEL & SPA,Gokula  Extension', 'hotel_id': '353561', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'RAENSS CAFE,Indiranagar', 'hotel_id': '355968', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.7', 'hotelname': 'MR.SOUP & MRS.SALAD,Ashoknagar', 'hotel_id': '356820', 'totalvotes': u'7 Ratings'}
+{'rating': u'1.8', 'hotelname': 'ECLIPSE, THE LEELA PALACE,Airport Road', 'hotel_id': '357200', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.5', 'hotelname': '380 DOWN,Indiranagar', 'hotel_id': '357882', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': "GABBARR'S KITCHEN,Whitefield", 'hotel_id': '359519', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': "NANDO'S,Whitefield", 'hotel_id': '360141', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.4', 'hotelname': 'JALPAAN UTTAR DAKSHIN,Jayanagar', 'hotel_id': '360538', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.6', 'hotelname': "HULIYAPPA'S DONNE BIRYANI,RT Nagar", 'hotel_id': '361125', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.5', 'hotelname': 'JACQUES LA BRASSERIE,Lavelle Road', 'hotel_id': '362271', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'VEEKES AND THOMAS,Residency Road', 'hotel_id': '364281', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.8', 'hotelname': 'BACKSTREET DINER,Kammanahalli Main Road', 'hotel_id': '364916', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'UNWINED,Kalyan Nagar', 'hotel_id': '62155', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE LOUNGE - EDEN PARK RESTAURANTS,Jayanagar', 'hotel_id': '63577', 'totalvotes': u'4 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TAKE A WOK,Sarjapur Road', 'hotel_id': '70087', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'LUCKY DA DHABA,Koramangala', 'hotel_id': '323225', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'DOFF LAWN LOUNGE AND CAFE,Indiranagar', 'hotel_id': '328837', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE INN CORPORATE CLUB,Bannerghatta Main Road', 'hotel_id': '329339', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'SAFFRON, HOTEL PARK PLAZA,Marathahalli', 'hotel_id': '346443', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.9', 'hotelname': 'ROADHOUSE,Indiranagar', 'hotel_id': '368522', 'totalvotes': u'9 Ratings'}
+{'rating': u'1.3', 'hotelname': 'GRILLS & GRAVY,Outer Ring Road', 'hotel_id': '351135', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SILVER WOK,Richmond Town', 'hotel_id': '1848', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': 'TOMS HOTEL, HOTEL TOMS,Brigade Road', 'hotel_id': '1868', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.8', 'hotelname': 'SOUTH PARADE,Lavelle Road', 'hotel_id': '1966', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE LIBRARY BAR, THE LEELA PALACE,Airport Road', 'hotel_id': '1993', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'SHANTI SAGAR,Malleshwaram', 'hotel_id': '2019', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'SIDDIQUE KABAB CENTRE,St. Johns Church Road', 'hotel_id': '2023', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SHERLOCK HOLMES,Coles Road', 'hotel_id': '2045', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'LA BRASSERIE, LE MERIDIEN,Sankey Road Cross', 'hotel_id': '2107', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.2', 'hotelname': 'ROYAL AFGHAN, ITC WINDSOR,Golf Course Road', 'hotel_id': '2138', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.0', 'hotelname': 'IGLOO,Whitefield', 'hotel_id': '13084', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TERRACOTTA, VIVANTA BY TAJ,Whitefield', 'hotel_id': '13231', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.2', 'hotelname': 'PARK VIEW,Vijaynagar', 'hotel_id': '14443', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.8', 'hotelname': 'SRI SHAKTI,Malleshwaram', 'hotel_id': '24235', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LOTUS PAVILION, ITC GARDENIA,Residency Road', 'hotel_id': '43254', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.6', 'hotelname': 'CHINESE COTTAGE,Koramangala', 'hotel_id': '45070', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PULIYOGARE POINT,Basavanagudi', 'hotel_id': '9005', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.8', 'hotelname': 'NANDHINI PALACE,New BEL Road', 'hotel_id': '9065', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'HOTEL KAIRALI,Koramangala', 'hotel_id': '9387', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'PIZZA PORT,Koramangala', 'hotel_id': '9415', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.1', 'hotelname': 'ITHACA, THE CHANCERY PAVILION ,Residency Road', 'hotel_id': '12141', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MASALA HOUSE,Cunningham Road', 'hotel_id': '12382', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.3', 'hotelname': 'UTSAV PUB,Koramangala', 'hotel_id': '2553', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'MTR MOMENTS,Rajajinagar', 'hotel_id': '4244', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MARATA DARSHAN,Vasanthnagar', 'hotel_id': '2354', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'UPAHARA DARSHINI,Basavanagudi', 'hotel_id': '2373', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.4', 'hotelname': 'TRANSIT - THE FORUM,Koramangala', 'hotel_id': '2379', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TAIYVANS,Ganga Nagar', 'hotel_id': '2449', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.2', 'hotelname': 'THE OSTERIA ITALIAN RESTAURANT,Kalyan Nagar', 'hotel_id': '48310', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.4', 'hotelname': 'MUTHASSI RESTAURANT,BTM Layout', 'hotel_id': '9388', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'ANNA KUTEERA,Kathriguppe Main Road', 'hotel_id': '9055', 'totalvotes': u'11 Ratings'}
+{'rating': u'3.5', 'hotelname': 'VILLAGE - THE SOUL OF INDIA,M G Road (Mysore)', 'hotel_id': '360964', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SREE SPICY HUB,Jeevanbheema Nagar', 'hotel_id': '54168', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.8', 'hotelname': 'TIGER TRAIL, RAMADA BANGALORE,Church Street', 'hotel_id': '1866', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.8', 'hotelname': 'OM MADE CAFE,Koramangala', 'hotel_id': '380045', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.3', 'hotelname': 'CHINESE FEASTS,Frazer Town', 'hotel_id': '47760', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.2', 'hotelname': 'SANGRIA WINE LOUNGE,New BEL Road', 'hotel_id': '392960', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.3', 'hotelname': 'CHINESE HUT,Highgrounds', 'hotel_id': '2578', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CHUTNEY CHANG,Jayanagar', 'hotel_id': '370681', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CINNAMON KITCHEN,Airport Road', 'hotel_id': '353135', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SHANMUKHA RESTAURANT,Marathahalli', 'hotel_id': '363915', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.8', 'hotelname': 'GOKUL VEG,DVG Road', 'hotel_id': '2302', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.1', 'hotelname': 'BIG BOY FRIED CHICKEN,HSR Layout', 'hotel_id': '13543', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SUBZ,Jayanagar', 'hotel_id': '364044', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.9', 'hotelname': "CHILI'S GRILL & BAR,Indiranagar", 'hotel_id': '400033', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ATHITHI,Bannerghatta Main Road', 'hotel_id': '2155', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'NANDHINI RESTAURANT, HOTEL NANDHINI ,St. Marks Road', 'hotel_id': '343269', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.8', 'hotelname': "VASUDEV ADIGA'S,Jayanagar", 'hotel_id': '2075', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.7', 'hotelname': "VASUDEV ADIGA'S,Indiranagar", 'hotel_id': '366989', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BEIJING BITES,Sarjapur Road', 'hotel_id': '238033', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.8', 'hotelname': 'KAATI ZONE BANASHANKARI,Banashankari', 'hotel_id': '8667', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CAFE MANGII,Vittal Mallya Road', 'hotel_id': '366396', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.7', 'hotelname': '1947 - FINE INDIAN CUISINE,West of Chord Road', 'hotel_id': '358715', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.1', 'hotelname': 'DAKSHIN, ITC WINDSOR,Golf Course Road', 'hotel_id': '2090', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'DESI TARKA,Jayanagar', 'hotel_id': '352787', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.4', 'hotelname': "DENNY'S,Jayanagar", 'hotel_id': '9457', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.3', 'hotelname': 'AVANTI INDIAN BARBEQUE & GRILL,Domlur', 'hotel_id': '239877', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.5', 'hotelname': 'NANDHINI DELUXE,Frazer Town', 'hotel_id': '2611', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'CHEERS COORG,Indiranagar', 'hotel_id': '358934', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.8', 'hotelname': 'DILLI KITCHEN ,Koramangala', 'hotel_id': '360839', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CLUB 9, HOTEL REGAALIS,Lavelle Road', 'hotel_id': '2439', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': 'AZURE, VIVANTA BY TAJ,Yeshwanthpur', 'hotel_id': '224217', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.8', 'hotelname': 'BEIJING BITES,Jayanagar', 'hotel_id': '8886', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.4', 'hotelname': 'AANGAN,Bellandur', 'hotel_id': '60047', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.3', 'hotelname': 'NAVRANG KABAB KORNER,Rajajinagar', 'hotel_id': '29719', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.7', 'hotelname': 'CHUNG WAH,Bannerghatta Main Road', 'hotel_id': '2635', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHUNG WAH,Sarjapur Road', 'hotel_id': '64767', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.6', 'hotelname': 'UPAHARA DARSHINI,Jayanagar', 'hotel_id': '2275', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SPICE IT, IBIS BENGALURU TECHPARK,Sarjapur Road', 'hotel_id': '231005', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': 'INDI BITES,Marathahalli', 'hotel_id': '188903', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.8', 'hotelname': 'SPICE N WOK,Whitefield', 'hotel_id': '189673', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.7', 'hotelname': 'KHUSHBOO,Koramangala', 'hotel_id': '156773', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'MAKHAN BHOG,Bannerghatta Main Road', 'hotel_id': '150465', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BROOKFIELD CAFE,Whitefield', 'hotel_id': '53034', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'NORTHERN ROUTE,St. Marks Road', 'hotel_id': '53936', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.6', 'hotelname': 'HONG KONG NOODLES CHINESE RESTAURANT,Ramamurthy Nagar', 'hotel_id': '54430', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.3', 'hotelname': 'SUNHERI, WOODLANDS HOTEL,Richmond Town', 'hotel_id': '54826', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SEASON, ADARSH HAMILTON,Richards Town', 'hotel_id': '55004', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SARDARJI KA DHABA,Hosur Road', 'hotel_id': '56059', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.3', 'hotelname': 'PIZZERIA LA CASA,Sarjapur Road', 'hotel_id': '153401', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'PERSIAN TERRACE, SHERATON BANGALORE,Malleshwaram', 'hotel_id': '154979', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'FISH & FRIES,HSR Layout', 'hotel_id': '394544', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.7', 'hotelname': 'MONKEY BAR,Indiranagar', 'hotel_id': '395032', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.8', 'hotelname': 'NAPOLI BISTRO,HSR Layout', 'hotel_id': '395840', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HELLOO DELHI,HSR Layout', 'hotel_id': '399475', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.0', 'hotelname': 'THE YELLOW CHILLI, BEST WESTERN JAGADISH,Jayanagar', 'hotel_id': '400309', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'YOUCOOK,Indiranagar', 'hotel_id': '374556', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SIAM HOUSE,Kammanahalli Main Road', 'hotel_id': '378405', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PAAKASHALA,Rajarajeshwari Nagar', 'hotel_id': '381472', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.5', 'hotelname': 'INFINITEA,Indiranagar', 'hotel_id': '388807', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.4', 'hotelname': "MOTHER'S MEAL,CV Raman Nagar", 'hotel_id': '391476', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.9', 'hotelname': 'LOVE THY KABABI,Bannerghatta Main Road', 'hotel_id': '349953', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.7', 'hotelname': 'THE HUMMING TREE - MUSIC VENUE & BAR,Indiranagar', 'hotel_id': '376247', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SWADISHTA,Sadashivnagar', 'hotel_id': '2132', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': "TA'AAM,Shivajinagar", 'hotel_id': '351913', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'AMOEBA - HM LEISURE,Whitefield', 'hotel_id': '354833', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'MR. IDLI,Old Madras Road', 'hotel_id': '355019', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAVI RUCHI,Ramamurthy Nagar', 'hotel_id': '355845', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.8', 'hotelname': 'RAJDHANI THALI RESTAURANT,Malleshwaram', 'hotel_id': '356640', 'totalvotes': u'4 Ratings'}
+{'rating': u'5.0', 'hotelname': 'PUNJABI FOOD CORNER,Indiranagar', 'hotel_id': '357079', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ANUPAMA,Hennur Road', 'hotel_id': '357534', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.8', 'hotelname': 'HIDEOUT,Bellandur', 'hotel_id': '361274', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': "BOBBY'S DHABA,Ulsoor", 'hotel_id': '362046', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.8', 'hotelname': 'THE TOWER KITCHEN,Vittal Mallya Road', 'hotel_id': '362939', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.0', 'hotelname': "CHAWLA'S 2,Jayanagar", 'hotel_id': '365141', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.5', 'hotelname': "BENITO'S,Kammanahalli Main Road", 'hotel_id': '365351', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE SQUARE PLATE,Magadi Road', 'hotel_id': '366089', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'M CAFE, BENGALURU MARRIOTT HOTEL,Whitefield', 'hotel_id': '366262', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.8', 'hotelname': 'THRAN,Kalyan Nagar', 'hotel_id': '366569', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CURRYS AND DOSAS,Cunningham Road', 'hotel_id': '367266', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MINT MASALA, THE CHEVRON HOTEL,Infantry Road', 'hotel_id': '58379', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.4', 'hotelname': 'MAIRAJ RESTAURANT,Tilak Nagar', 'hotel_id': '59273', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': 'NEW PUNJABI HOTEL,Indiranagar', 'hotel_id': '59645', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': 'GREEN CHILLIES,JP Nagar', 'hotel_id': '69129', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.5', 'hotelname': 'PATAKA ROLL CO,Sarjapur Road', 'hotel_id': '70089', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'OCEAN TREAT,Banaswadi', 'hotel_id': '341905', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'CROSSOVER,Kalyan Nagar', 'hotel_id': '341907', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'FOOD PALETTE,CV Raman Nagar', 'hotel_id': '368263', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.5', 'hotelname': "SRINATHJI'S,Bull Temple Road", 'hotel_id': '371806', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.3', 'hotelname': 'DAAWAT-E-PUNJAB,Jayanagar', 'hotel_id': '372702', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.4', 'hotelname': 'CAFE MONDO,HSR Layout', 'hotel_id': '367620', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MUSTARD - THE FOOD COURT,HSR Layout', 'hotel_id': '363033', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GARDEN RESTAURANT,Jayamahal Road', 'hotel_id': '1738', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': 'LE JARDIN, THE OBEROI,MG Road', 'hotel_id': '1827', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.7', 'hotelname': 'HOTEL REGENCY PARK,Kammanahalli Main Road', 'hotel_id': '1982', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.7', 'hotelname': 'MADURI GRAND,Airport Road', 'hotel_id': '1997', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PEKING,Kammanahalli Main Road', 'hotel_id': '2007', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE PONGAL,HAL', 'hotel_id': '2032', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'YUAN RESTAURANT,HBR Layout', 'hotel_id': '2039', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.3', 'hotelname': 'GOWRI RESTAURANT,New BEL Road', 'hotel_id': '2057', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'SWATHI RESTAURANT,Rajajinagar', 'hotel_id': '2134', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BLING, THE ZURI,Whitefield', 'hotel_id': '13738', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'FLAVORS,Whitefield', 'hotel_id': '14094', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KAMAT NANDANAVAN,Jalahalli', 'hotel_id': '14389', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.0', 'hotelname': "THE VIL'AGE,Marathahalli", 'hotel_id': '14704', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.6', 'hotelname': 'ADYAR ANAND BHAVAN,Basaveshwara Nagar', 'hotel_id': '25509', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SINDBAD,Domlur', 'hotel_id': '27950', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAGE AND THYME,Koramangala', 'hotel_id': '44392', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'PARK N EAT,Kumara Park', 'hotel_id': '44972', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': '7TH HEAVEN, THE SOLITAIRE HOTEL,Kumara Park', 'hotel_id': '8661', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.7', 'hotelname': 'BABUMOSHAI,Indiranagar', 'hotel_id': '8792', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.5', 'hotelname': 'TRIDENT HAVELI,Koramangala', 'hotel_id': '9031', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.7', 'hotelname': 'ZODIAC, FORTUNE SELECT JP COSMOS,Cunningham Road', 'hotel_id': '9237', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SPORTS BAR EXPRESS,Whitefield', 'hotel_id': '12070', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MOSS COCKTAIL LOUNGE,Domlur', 'hotel_id': '12263', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'SOMETHING FISHY,Langford Road', 'hotel_id': '12965', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': 'NAKSHATRA, FORTUNE SELECT JP COSMOS,Cunningham Road', 'hotel_id': '13058', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SHANTI SAGAR,Frazer Town', 'hotel_id': '2602', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SHEZAN,Lavelle Road', 'hotel_id': '2625', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.3', 'hotelname': 'THE UPPER DECK, PAI VICEROY,JC Road', 'hotel_id': '3782', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SUTRA - THE LOUNGE, THE LALIT ASHOK,Kumara Park', 'hotel_id': '4019', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.6', 'hotelname': 'SAMRAT, HOTEL CHALUKYA,Race Course Road', 'hotel_id': '2368', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.8', 'hotelname': 'KIM LING,Kasturi Nagar', 'hotel_id': '358699', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.2', 'hotelname': 'SORSE,Mahadevapura', 'hotel_id': '404981', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': '153 BIERE STREET,Whitefield', 'hotel_id': '393498', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CASABLANKA,Banashankari', 'hotel_id': '357553', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'KADAMBA,Vijaynagar', 'hotel_id': '8050', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SRI VENKATESHWARA NORTH KARNATAKA SPECIALITIES,Jayanagar', 'hotel_id': '13030', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.3', 'hotelname': 'AISHWARYA PARK LAND BAR,Bannerghatta Main Road', 'hotel_id': '2639', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'LAZEEZ,Shivajinagar', 'hotel_id': '9280', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.3', 'hotelname': 'THE KEBAB ROOM,Indiranagar', 'hotel_id': '393387', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ASEAN,Ashoknagar', 'hotel_id': '8347', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': "AMMI'S BIRYANI,Indiranagar", 'hotel_id': '361747', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.7', 'hotelname': 'BHAGINI,Marathahalli', 'hotel_id': '14111', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.9', 'hotelname': 'GOLKONDA CHIMNEY,Whitefield', 'hotel_id': '365163', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.6', 'hotelname': 'DELHI WALLE,Marathahalli', 'hotel_id': '390719', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.5', 'hotelname': '24@43 CAFE, CROWNE PLAZA BENGALURU,Electronics City', 'hotel_id': '14537', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.1', 'hotelname': 'PUNJABI RASWADA,Jayanagar', 'hotel_id': '386456', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.0', 'hotelname': "CHILI'S GRILL & BAR,Malleshwaram", 'hotel_id': '365230', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.4', 'hotelname': 'CHICKEN COUNTY,Bannerghatta Main Road', 'hotel_id': '14768', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.3', 'hotelname': 'THE PUB WORLD,Residency Road', 'hotel_id': '1894', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.8', 'hotelname': 'NANDHINI DELUXE, HOTEL NANDHINI ,Lalbagh Road', 'hotel_id': '2358', 'totalvotes': u'4 Ratings'}
+{'rating': u'0.9', 'hotelname': 'HYDERABAD HOUSE,Sarjapur Road', 'hotel_id': '351129', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': "VASUDEV ADIGA'S,Sahakara Nagar", 'hotel_id': '393913', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.3', 'hotelname': 'MAST KALANDAR,Koramangala', 'hotel_id': '71365', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KAATI ZONE MALLESWARAM,Malleshwaram', 'hotel_id': '8666', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.5', 'hotelname': "OLIVER'S RISTORANTE,Whitefield", 'hotel_id': '365732', 'totalvotes': u'8 Ratings'}
+{'rating': u'3.9', 'hotelname': 'COORG PAVILION,Ganga Nagar', 'hotel_id': '7595', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.3', 'hotelname': 'KAMAT HOTEL,Lalbagh Road', 'hotel_id': '1745', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.3', 'hotelname': 'SOHO BAR & GRILL,Basavanagudi', 'hotel_id': '56882', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CLAYPOT,New Thippasandra', 'hotel_id': '27886', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': "ELONGO'S,Koramangala", 'hotel_id': '353529', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.5', 'hotelname': "CALVIN'S,HSR Layout", 'hotel_id': '398377', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CHUNGS KITCHEN,New BEL Road', 'hotel_id': '7515', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CHAKH LE,Jeevanbheema Nagar', 'hotel_id': '58017', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'BEIJING BITES,Kasturi Nagar', 'hotel_id': '237981', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ROYAL TREAT,Koramangala', 'hotel_id': '2245', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.3', 'hotelname': 'CHUNG WAH CHINESE & THAI RESTAURANT, STERLING SUITES,Whitefield', 'hotel_id': '44613', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'CALIFORNIA BURRITO,Domlur', 'hotel_id': '367807', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.5', 'hotelname': 'CALIFORNIA PIZZA KITCHEN,Koramangala', 'hotel_id': '365105', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'CHUNG WAH,Residency Road', 'hotel_id': '2295', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SUBWAY,Basavanagudi', 'hotel_id': '182791', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.3', 'hotelname': "VASUDEV ADIGA'S,Koramangala", 'hotel_id': '44988', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.7', 'hotelname': "VASUDEV ADIGA'S,MG Road", 'hotel_id': '1789', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEIJING BITES,Richmond Town', 'hotel_id': '2290', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.3', 'hotelname': 'NEW SHANTHI SAGAR,Jayanagar', 'hotel_id': '8960', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.1', 'hotelname': 'STOMP,Whitefield', 'hotel_id': '381945', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SPIRITS,Koramangala', 'hotel_id': '228655', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE HUB, IBIS BENGALURU TECHPARK ,Sarjapur Road', 'hotel_id': '229725', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'AKANA RESTAURANT,Banaswadi', 'hotel_id': '239447', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'AQUARIUM RESTAURANT,Frazer Town', 'hotel_id': '239737', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': "SATHYA'S BIRIYANI,Koramangala", 'hotel_id': '243739', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE AROMAS,Shivajinagar', 'hotel_id': '220901', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'RANGLAA PUNJAB,Koramangala', 'hotel_id': '223735', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'APPLEWOOD RESTAURANT,Indiranagar', 'hotel_id': '224327', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'AAHAR UTSAV,Banashankari', 'hotel_id': '150605', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'SOUTHIES,Jayanagar', 'hotel_id': '50494', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'HUNGRY PANDA,Koramangala', 'hotel_id': '52039', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'RENDEZVOUS,Frazer Town', 'hotel_id': '52132', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LA VIGNA,Indiranagar', 'hotel_id': '54556', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NEW SAMRAT RESTAURANT,Seshadripuram', 'hotel_id': '54714', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.7', 'hotelname': 'NEW KADAI,Kammanahalli Main Road', 'hotel_id': '55009', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'QAHWA,Sarjapur Road', 'hotel_id': '55268', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'VERVE, ROYAL ORCHID RESORT & CONVENTION CENTRE,Yelahanka New Town', 'hotel_id': '57140', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'FARRAGO,Cunningham Road', 'hotel_id': '154507', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.7', 'hotelname': 'MESA LOUNGE BAR, SVENSKA DESIGN HOTEL,Electronics City', 'hotel_id': '154691', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MANGO TREE BISTRO BAR,Indiranagar', 'hotel_id': '393156', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'TANDOORI TAAL,Indiranagar', 'hotel_id': '397653', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.2', 'hotelname': 'BAKASUR,Bellandur', 'hotel_id': '397855', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.7', 'hotelname': 'SERAFINA,Koramangala', 'hotel_id': '398642', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.5', 'hotelname': 'INDIGO LIVE MUSIC BAR,Koramangala', 'hotel_id': '399130', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.1', 'hotelname': 'THE BLACK RABBIT,Indiranagar', 'hotel_id': '400373', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PUMA SOCIAL CLUB,Indiranagar', 'hotel_id': '383843', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.3', 'hotelname': 'UGADI,Jayanagar', 'hotel_id': '384202', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ANGREJI,Koramangala', 'hotel_id': '384796', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'PADHARO SA,Jayanagar', 'hotel_id': '387276', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'LE PONT,Frazer Town', 'hotel_id': '379538', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.8', 'hotelname': 'HOPPIPOLA,Indiranagar', 'hotel_id': '381017', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE KITCHEN OF JOY,Indiranagar', 'hotel_id': '381216', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.7', 'hotelname': 'THE GLASS HOUSE,Lavelle Road', 'hotel_id': '388324', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.2', 'hotelname': 'HYDERABAD HANDI BIRYANI,BTM Layout 2nd Stage', 'hotel_id': '390784', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.3', 'hotelname': 'IYER MESS,Malleshwaram', 'hotel_id': '390897', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.8', 'hotelname': "CONNIE'S RESTAURANT & CAFE,Kammanahalli Main Road", 'hotel_id': '391117', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SIDDHAS,JP Nagar', 'hotel_id': '391175', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MASTI MUNCH,Electronics City', 'hotel_id': '391475', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KALPASI BIRYANI & SUKKA,Bannerghatta Main Road', 'hotel_id': '353683', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'REWIND RESTRO BAR ,Indiranagar', 'hotel_id': '354517', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'GARMA GARAM,Koramangala', 'hotel_id': '354537', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HYDERABAD BAWARCHI,Koramangala', 'hotel_id': '355185', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'LEBMEX,Lavelle Road', 'hotel_id': '355268', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SPORTS CAFE,Indiranagar', 'hotel_id': '357616', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'KOBE SIZZLERS,Malleshwaram', 'hotel_id': '357871', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': "BENITO'S,Old Madras Road", 'hotel_id': '358427', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': "BENITO'S,Whitefield", 'hotel_id': '358429', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PUNJABI SANJHAA CHULAAH,BTM Layout', 'hotel_id': '358990', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'LA TERRAZA,Koramangala', 'hotel_id': '359044', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'SMOKE SIGNAL BARBEQUE,Frazer Town', 'hotel_id': '359945', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.7', 'hotelname': 'NESARA GRAND,Sahakara Nagar', 'hotel_id': '360051', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'TERRAZZO,Indiranagar', 'hotel_id': '360698', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.7', 'hotelname': 'PASHA BAR & GRILL, ALILA BANGALORE,Whitefield', 'hotel_id': '361713', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'HARA FINE DINE,Banashankari', 'hotel_id': '361993', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.5', 'hotelname': 'ITSMYMEAL CAFE,HSR Layout', 'hotel_id': '362031', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.7', 'hotelname': 'UPPU MUNCHI ,Yeshwanthpur', 'hotel_id': '362203', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'GHAR KA KHANA,Nagavara', 'hotel_id': '362448', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SHEZAN,Lavelle Road', 'hotel_id': '363110', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MASK - WORLD GRILL & RESTO BAR, AAURICK BOUTIQUE HOTEL,JP Nagar', 'hotel_id': '363832', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MANGO TREE RESTAURANT,Koramangala', 'hotel_id': '363938', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.3', 'hotelname': 'GINGER GREEN BAR & RESTAURANT,Kalyan Nagar', 'hotel_id': '364057', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GOLDEN LOTUS,Indiranagar', 'hotel_id': '364862', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': '4 SEASONS,Whitefield', 'hotel_id': '367253', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'CAFFETTE,Kodihalli', 'hotel_id': '60021', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MASALA CRAFT,Indiranagar', 'hotel_id': '62087', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': "PRAMUKH'S,Basavanagudi", 'hotel_id': '62211', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'NE DINER,Koramangala', 'hotel_id': '63953', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'BHAGINI,New Thippasandra', 'hotel_id': '66915', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TIFFIN BAR, ALILA BANGALORE,Whitefield', 'hotel_id': '338517', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': 'TIFFIN ROOM, ALILA BANGALORE,Whitefield', 'hotel_id': '338585', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.3', 'hotelname': 'WYT RESTRO PUB, KOMFORT TERRACE,MG Road', 'hotel_id': '341725', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'NANDHINI PARADISE, NANDHINI DELUXE HOTEL,JP Nagar', 'hotel_id': '343283', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE LOBBY CAFE, RADHA REGENT,Electronics City', 'hotel_id': '348201', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PLUS 91,Mahadevapura', 'hotel_id': '368081', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.8', 'hotelname': 'LEVEL 5 LOUNGE,Jayanagar', 'hotel_id': '372965', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.0', 'hotelname': 'PUSHPAK,HSR Layout', 'hotel_id': '358707', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE GARAGE CAFE,Bannerghatta Main Road', 'hotel_id': '358748', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': '1498 AD, THE ATRIA HOTEL,Palace Road', 'hotel_id': '1701', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'NAGARJUNA SAVOY,Residency Road', 'hotel_id': '1751', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KOYLA,Brigade Road', 'hotel_id': '1822', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'STARS AND STRIPES,Brigade Road', 'hotel_id': '1851', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TRIVOLI GARDENS, THE CAPITOL HOTEL,Raj Bhavan Road', 'hotel_id': '1867', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.5', 'hotelname': 'NANDHANA PALACE,Rajajinagar', 'hotel_id': '1924', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.3', 'hotelname': 'NEW SAGAR FAST FOOD,Banashankari', 'hotel_id': '1925', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SUKH SAGAR,Jayanagar', 'hotel_id': '1933', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'TAMARIND,Banaswadi', 'hotel_id': '1940', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NOBLE HOUSE,Infantry Road', 'hotel_id': '1949', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SHALIMAR DELUXE RESTAURANT,Indiranagar', 'hotel_id': '2018', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SICHI SAGAR,RT Nagar', 'hotel_id': '2066', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE HERB,Malleshwaram', 'hotel_id': '2097', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE FAST FOOD,Malleshwaram', 'hotel_id': '2136', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': "BALAJI'S,BTM Layout", 'hotel_id': '2169', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CHINAI,Marathahalli', 'hotel_id': '13191', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'INCANTO, THE ZURI,Whitefield', 'hotel_id': '13737', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.5', 'hotelname': 'BHAGINI,Banaswadi', 'hotel_id': '14098', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BHAGINI,Sahakara Nagar', 'hotel_id': '14108', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HOTEL IMPERIAL,Vasanthnagar', 'hotel_id': '14454', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SREE NANDHANA PALACE BY SREE NANDHINI PALACE,Domlur', 'hotel_id': '14467', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SURI GARDEN BAR AND RESTAURANT,Airport Road', 'hotel_id': '14675', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FEAST, SPREE HOTEL,Dodda Nakkundi', 'hotel_id': '16560', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'POLYNATION,Koramangala', 'hotel_id': '18920', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'HOTEL SALEM SPICES,Kamraj Road', 'hotel_id': '26276', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.2', 'hotelname': 'KALINGAS,BTM Layout', 'hotel_id': '29232', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.7', 'hotelname': 'LITTLE EMPIRE,Vasanthnagar', 'hotel_id': '32581', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CAFE TREAT, THE PRIDE HOTEL,Richmond Town', 'hotel_id': '33865', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'FAME CAFE,Kammanahalli Main Road', 'hotel_id': '33873', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ZAIQA-E-LUCKNOW,Frazer Town', 'hotel_id': '39413', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'FIRE WOK,Koramangala', 'hotel_id': '47037', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'VILLA POTTIPATI,Malleshwaram', 'hotel_id': '47687', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TAWA,Koramangala', 'hotel_id': '7252', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'INDIA GATE,Indiranagar', 'hotel_id': '7405', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'TADKA,Jayanagar', 'hotel_id': '8150', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MALGUDI,Hosur Road', 'hotel_id': '8744', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PONNUSAMY HOTEL,Koramangala', 'hotel_id': '8917', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'STIR,Residency Road', 'hotel_id': '9102', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MINI PUNJABI DHABA,Bull Temple Road', 'hotel_id': '9333', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MARVA,BTM Layout', 'hotel_id': '9396', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'NUMBER 70,Brigade Road', 'hotel_id': '9429', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'MALGUDI,Residency Road', 'hotel_id': '9446', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SHIVRAAG,Rajarajeshwari Nagar', 'hotel_id': '9499', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'AQUA, THE PARK,MG Road', 'hotel_id': '2576', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'SHANTI SAGAR,Banashankari', 'hotel_id': '2591', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': "WANG'S CHINESE RESTAURANT,Frazer Town", 'hotel_id': '2612', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ANNAPOORNA,Airport Road', 'hotel_id': '2705', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.7', 'hotelname': 'PARK VIEW VEG REST,JP Nagar', 'hotel_id': '2235', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.6', 'hotelname': 'PRASIDHI FOOD CORNER,JP Nagar', 'hotel_id': '2238', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SHREE SAGAR,Jayanagar', 'hotel_id': '2250', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'UDUPI GARDEN,BTM Layout', 'hotel_id': '2272', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'HOTEL PARAMOUNT,Residency Road', 'hotel_id': '2306', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'SRINIDHI SAGAR,Airport Road', 'hotel_id': '2317', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ANNAPOORNA,Gandhinagar', 'hotel_id': '2343', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.5', 'hotelname': 'NEW MODERN HOTEL,VV Puram', 'hotel_id': '2359', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PLANTAIN LEAF,New Thippasandra', 'hotel_id': '2360', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SIDDAPPAN MESS,Sampangiram Nagar', 'hotel_id': '2369', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KENTACKY CHICKEN CORNER,Kalasipalayam', 'hotel_id': '2382', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.7', 'hotelname': 'CLAYPOT,Kodihalli', 'hotel_id': '48311', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.6', 'hotelname': 'NITE OUT,Koramangala', 'hotel_id': '382399', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.6', 'hotelname': 'TIMEPASS DINNER,Basavanagudi', 'hotel_id': '404083', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.8', 'hotelname': 'PURNABRAMHA,HSR Layout', 'hotel_id': '397748', 'totalvotes': u'9 Ratings'}
+{'rating': u'3.5', 'hotelname': "SANCHO'S,Vittal Mallya Road", 'hotel_id': '396235', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.9', 'hotelname': 'PRESTIGE GOLFSHIRE CLUB,Devanahalli', 'hotel_id': '359105', 'totalvotes': u'14 Ratings'}
+{'rating': u'3.0', 'hotelname': "SMALLY'S RESTOCAFE,Ulsoor", 'hotel_id': '394962', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAMAGOTO,Indiranagar', 'hotel_id': '404401', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'VAATHSALYA MILLET CAFE,JP Nagar', 'hotel_id': '400331', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.4', 'hotelname': 'SURYAWANSHI,Whitefield', 'hotel_id': '380599', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BIG BREWSKY,Sarjapur Road', 'hotel_id': '400321', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MAST KALANDAR,Bellandur', 'hotel_id': '332301', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'HAVE MORE,New BEL Road', 'hotel_id': '224507', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'EMPIRE RESTAURANT,Kammanahalli Main Road', 'hotel_id': '1768', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.9', 'hotelname': 'TADKA MAAR KE,Banashankari', 'hotel_id': '366545', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CUPPA BISTRO,Jayanagar', 'hotel_id': '390985', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CRESCENT AVENUE, HOTEL BANGALORE INTERNATIONAL,Highgrounds', 'hotel_id': '1730', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': "AMMI'S BIRYANI,Cunningham Road", 'hotel_id': '156563', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': "AMMI'S BIRYANI,Jalahalli", 'hotel_id': '393590', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': "AMMI'S BIRYANI,RT Nagar", 'hotel_id': '361746', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'CITRUS CAFE, LEMON TREE HOTEL,Electronics City', 'hotel_id': '51582', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.7', 'hotelname': 'DOWNTOWN,Residency Road', 'hotel_id': '1734', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.5', 'hotelname': 'DRUMSTICKS,Richmond Town', 'hotel_id': '52069', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'ADYAR ANANDA BHAVAN,Gandhi Bazaar', 'hotel_id': '9165', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEIJING BITES,Jeevanbheema Nagar', 'hotel_id': '237969', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.3', 'hotelname': 'BEIJING BITES,Magrath Road', 'hotel_id': '237951', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.8', 'hotelname': 'BON SOUTH,Koramangala', 'hotel_id': '377518', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.3', 'hotelname': "NANDA'S,HSR Layout", 'hotel_id': '351075', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.7', 'hotelname': "MANI'S DUM BIRYANI,Indiranagar", 'hotel_id': '365412', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.5', 'hotelname': 'GOKUL VEG,RT Nagar', 'hotel_id': '353331', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': "KABABI'S,Bannerghatta Main Road", 'hotel_id': '365698', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': "SHREE YUMMY'S PALACE,Malleshwaram", 'hotel_id': '366137', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.6', 'hotelname': 'PEACE RESTAURANT,Koramangala', 'hotel_id': '366147', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.7', 'hotelname': 'DELICACY,Jeevanbheema Nagar', 'hotel_id': '362438', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PUNJABI TADKA,Marathahalli', 'hotel_id': '362599', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SUKH SAGAR EXPRESS,Frazer Town', 'hotel_id': '356335', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.1', 'hotelname': 'SREE NANDHANA PALACE,Kammanahalli Main Road', 'hotel_id': '1752', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'FOOD MAGIC,Kammanahalli Main Road', 'hotel_id': '46866', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.2', 'hotelname': 'NUPUR KOLHAPUR,New BEL Road', 'hotel_id': '392216', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'NANDHINI PARADISE, HOTEL NANDHINI,Jayanagar', 'hotel_id': '2586', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': "VASUDEV ADIGA'S,HSR Layout", 'hotel_id': '373714', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'NEW SHANTHI SAGAR,Basavanagudi', 'hotel_id': '13315', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.8', 'hotelname': 'MAINLAND CHINA,HBR Layout', 'hotel_id': '376876', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MAST KALANDAR,Domlur', 'hotel_id': '57448', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.3', 'hotelname': 'MAST KALANDAR,Brookefield', 'hotel_id': '348921', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.9', 'hotelname': 'UJWAL FAMILY RESTAURANT,Vasanthnagar', 'hotel_id': '188083', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.8', 'hotelname': "NAHAR'S SIDEWALK CAFE, HOTEL NAHAR HERITAGE,St. Marks Road", 'hotel_id': '358601', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'ADITHYA,JP Nagar', 'hotel_id': '50495', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KAILASH PARBAT,Mahadevapura', 'hotel_id': '333173', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.2', 'hotelname': '1947 - FINE INDIAN CUISINE,Rajarajeshwari Nagar', 'hotel_id': '52481', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SILVER BOWL FINE DINING & BAR,HSR Layout', 'hotel_id': '363683', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CURRY LEAVES,Jayanagar', 'hotel_id': '352085', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'DAKHNI,Whitefield', 'hotel_id': '66593', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.2', 'hotelname': 'CITRUS CAFE, LEMON TREE PREMIER,Ulsoor', 'hotel_id': '359120', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.0', 'hotelname': 'ATITHYA RESTAURANT & LODGING,Basavanagudi', 'hotel_id': '2167', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BHAGINI DELUXE,Marathahalli', 'hotel_id': '362379', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': "CHEF'S BANK, KRISHINTON SUITES,Mathikere", 'hotel_id': '54657', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.2', 'hotelname': '37 CHINA TOWN, 37TH CRESCENT HOTEL,Highgrounds', 'hotel_id': '1705', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'DELHI FOOD POINT,Koramangala', 'hotel_id': '60045', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': "AMMI'S BIRYANI,Bannerghatta Main Road", 'hotel_id': '362336', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CAVE-N-DINE RESTAURANT,Basaveshwara Nagar', 'hotel_id': '390125', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ADYAR ANANDA BHAVAN,Kalyan Nagar', 'hotel_id': '390728', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.9', 'hotelname': 'THE MARKET, THE RITZ-CARLTON,Residency Road', 'hotel_id': '387209', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.5', 'hotelname': 'EASTERN DINER,Koramangala', 'hotel_id': '366458', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHUNG WAH,Kathriguppe Main Road', 'hotel_id': '242081', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHUNG WAH,Kalyan Nagar', 'hotel_id': '357555', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'CHUNG WAH,BTM Layout', 'hotel_id': '363931', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': "VASUDEV ADIGA'S,Koramangala", 'hotel_id': '389354', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': "VASUDEV ADIGA'S,RT Nagar", 'hotel_id': '374992', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': "VASUDEV ADIGA'S,JP Nagar", 'hotel_id': '391812', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.5', 'hotelname': "VASUDEV ADIGA'S,Kanakapura Road", 'hotel_id': '366998', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.7', 'hotelname': 'MAST KALANDAR,Outer Ring Road', 'hotel_id': '365065', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.9', 'hotelname': 'BARBEQUE NATION,Ulsoor', 'hotel_id': '363871', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BANJARA,Jayanagar', 'hotel_id': '226361', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'ZEN SATION, THE PARK SLOPE HOTEL,Jayanagar', 'hotel_id': '227043', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ADAA,Koramangala', 'hotel_id': '230125', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BOMBAY BLUE,Koramangala', 'hotel_id': '238233', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BREEZE  RESTAURANT,New Thippasandra', 'hotel_id': '240413', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': "REDDY'S RESTAURANT,CV Raman Nagar", 'hotel_id': '247173', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'LEBMEX,Whitefield', 'hotel_id': '187333', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': "HRUDAY'S D3,Audugodi", 'hotel_id': '189319', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SANGAM SWEETS,Kumara Park', 'hotel_id': '192927', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BREWBERRYS THE COFFEE BAR,Sarjapur Road', 'hotel_id': '220533', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MARRY BROWN,Koramangala', 'hotel_id': '221723', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'JUNGLE, HOTEL PAI VISTA,Nazarbad', 'hotel_id': '222825', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'GAKKO,Koramangala', 'hotel_id': '223739', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.2', 'hotelname': 'BLUE CORIANDER, LORDS PLAZA,Electronics City', 'hotel_id': '223889', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'PARANDA, VIVANTA BY TAJ,Yeshwanthpur', 'hotel_id': '224121', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SKY BAR, SPREE HOTEL,Dodda Nakkundi', 'hotel_id': '149433', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'POT PUREE,Koramangala', 'hotel_id': '151105', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'NITHYOTHSAV, HOTEL RAMANASHREE BRUNTON,Brunton Road', 'hotel_id': '50894', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'GOLDEN LEAF,HSR Layout', 'hotel_id': '50917', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MIRPKAI,Koramangala', 'hotel_id': '52223', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KAAPI KADAI,Koramangala', 'hotel_id': '53185', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SOSSEGADO,Whitefield', 'hotel_id': '53429', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SWAD PUNJABI DHABA,Jeevanbheema Nagar', 'hotel_id': '54084', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAMMUK HOTEL,Marathahalli', 'hotel_id': '54101', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'ATEAL,JP Nagar', 'hotel_id': '54554', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'AROWANA,Sarjapur Road', 'hotel_id': '54555', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': "WOODY'S, WOODLANDS HOTEL,Richmond Town", 'hotel_id': '54828', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'DOT.YUM, ALOFT HOTEL,Whitefield', 'hotel_id': '55577', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ESTIA, ALOFT HOTEL,Whitefield', 'hotel_id': '55578', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ORIENTAL WOK,Kammanahalli Main Road', 'hotel_id': '55658', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CHATQARA,MM Road', 'hotel_id': '56180', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE HYDERABAD CAFE,Marathahalli', 'hotel_id': '56877', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'TONGUE MRIDANG,BTM Layout 2nd Stage', 'hotel_id': '153477', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'FEAST, SHERATON BANGALORE,Malleshwaram', 'hotel_id': '154965', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'UP THERE,Kumaraswamy Layout', 'hotel_id': '151719', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'C-CUBE,Kundalahalli', 'hotel_id': '393082', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GREASY SPOON,HSR Layout', 'hotel_id': '393184', 'totalvotes': u'3 Ratings'}
+{'rating': u'NA', 'hotelname': 'ZAAFRAN,Whitefield', 'hotel_id': '393421', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'UTOPIA,Sarjapur Road', 'hotel_id': '393677', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': "LOBO'S FOOD LOUNGE,Kammanahalli Main Road", 'hotel_id': '394402', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.7', 'hotelname': 'MASTI MASALA,Rajajinagar', 'hotel_id': '394767', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.9', 'hotelname': 'BY THE WAY MYSORE,Ring Road', 'hotel_id': '394980', 'totalvotes': u'10 Ratings'}
+{'rating': u'2.3', 'hotelname': 'GRUBNOMIC,Koramangala', 'hotel_id': '395009', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.5', 'hotelname': 'BURRITO KING,Indiranagar', 'hotel_id': '395588', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.2', 'hotelname': 'NOOK, ALOFT BENGALURU CESSNA BUSINESS PARK,Bellandur', 'hotel_id': '396724', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.7', 'hotelname': 'CAPERBERRY,Vittal Mallya Road', 'hotel_id': '396842', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'SIMPLY INDIAN,BTM Layout', 'hotel_id': '397221', 'totalvotes': u'7 Ratings'}
+{'rating': u'2.7', 'hotelname': 'BLUPETAL HOTEL,Koramangala', 'hotel_id': '397650', 'totalvotes': u'3 Ratings'}
+{'rating': u'NA', 'hotelname': 'SOO RA SANG,Indiranagar', 'hotel_id': '397828', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'FOOD AND YOU,Koramangala', 'hotel_id': '398746', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SHANMUKHA RESTAURANT,Jayanagar', 'hotel_id': '399011', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TAPWATER - THE GASTRO PUB,Brigade Road', 'hotel_id': '399105', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HOKEY COKEY,Koramangala', 'hotel_id': '400041', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'RAJDHANI THALI,Koramangala', 'hotel_id': '400109', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BLISTERING BARNACLES,Indiranagar', 'hotel_id': '400112', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': "SOUTH RUCHI'S, CARTIER HOTELS,Vijaynagar", 'hotel_id': '404387', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHAVADI, HOTEL ARAMA SUITES,Bannerghatta Main Road', 'hotel_id': '404474', 'totalvotes': u'2 Ratings'}
+{'rating': u'NA', 'hotelname': 'LUCKNOWIZ RESTAURANT,Koramangala', 'hotel_id': '404846', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.9', 'hotelname': 'FORT KOCHI,MG Road', 'hotel_id': '400339', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'CHAMELEON,Indiranagar', 'hotel_id': '400839', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'CHUNG WAH RESTAURANT,Sahakara Nagar', 'hotel_id': '400901', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BANGALORE BREW WORKS,Residency Road', 'hotel_id': '401153', 'totalvotes': u'3 Ratings'}
+{'rating': u'0.9', 'hotelname': 'CHIANTI,Indiranagar', 'hotel_id': '402072', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': "THE FAT FANNY'S CAFE,Koramangala", 'hotel_id': '404301', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BYLI - BET YOU LOVE IT!,Kalyan Nagar', 'hotel_id': '404311', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE HUB,Whitefield', 'hotel_id': '400301', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'YUMMY WOK,Koramangala', 'hotel_id': '382537', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SPREADS & MORE,Koramangala', 'hotel_id': '383474', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RASA INDIA,Indiranagar', 'hotel_id': '383762', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'DALMA,Koramangala', 'hotel_id': '383860', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'PANCHAVATI GAURAV,Bellandur', 'hotel_id': '384384', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.7', 'hotelname': 'KHAAJA CHOWK, FORMULE 1 HOTEL,Whitefield', 'hotel_id': '384589', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SECRET RECIPE,Mahadevapura', 'hotel_id': '384654', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.3', 'hotelname': 'HUNGREE BELLY,Malleshpalya', 'hotel_id': '386124', 'totalvotes': u'3 Ratings'}
+{'rating': u'0.7', 'hotelname': 'SLV DELITE, SHREE ADIGA RESIDENCY,Gandhinagar', 'hotel_id': '386297', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'KUDLA,Yelahanka', 'hotel_id': '386634', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE LANTERN, THE RITZ-CARLTON,Residency Road', 'hotel_id': '387211', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ANNACHI RESTAURANT,Indiranagar', 'hotel_id': '387251', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ALBA, JW MARRIOTT HOTEL BENGALURU,Vittal Mallya Road', 'hotel_id': '387307', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE FUNJABI TADKA,Whitefield', 'hotel_id': '387450', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'COPPER CHIMNEY,Mahadevapura', 'hotel_id': '387572', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.2', 'hotelname': 'DISTRICT 6,Rajajinagar', 'hotel_id': '387703', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BOBOZ,Banashankari', 'hotel_id': '376531', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ZAICA,Nagavara', 'hotel_id': '376643', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': "SUNNY'S INDIAN KITCHEN ,Lavelle Road", 'hotel_id': '377667', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BARLEY & GRAPES,Mahadevapura', 'hotel_id': '378255', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'SOUTHERN SPICE,Whitefield', 'hotel_id': '379272', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE NAGA KITCHEN,Koramangala', 'hotel_id': '379571', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE FORT KOCHI CONNECTION,Koramangala', 'hotel_id': '388510', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': "SASRIAKAL B'LORE,Cox Town", 'hotel_id': '390005', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'OAKLEAF RESTAURANT,Whitefield', 'hotel_id': '390080', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.7', 'hotelname': 'SIGREE GLOBAL GRILL,Whitefield', 'hotel_id': '390268', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.5', 'hotelname': 'RICHIES RAHHAMS,Cunningham Road', 'hotel_id': '390710', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'SWAAD,Rajajinagar', 'hotel_id': '390727', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE ONLY PLACE,Indiranagar', 'hotel_id': '390910', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MUGHAL EMPIRE,Brookefield', 'hotel_id': '391058', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'AFRICANO KITCHEN,Ramamurthy Nagar', 'hotel_id': '391085', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HOTEL MYSORE MYLARI,Basavanagudi', 'hotel_id': '391211', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.0', 'hotelname': "CHINMAYEE'S,Electronics City", 'hotel_id': '391214', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SWAAD BAGICHA,Bellandur', 'hotel_id': '391364', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BON APPETIT,Kalyan Nagar', 'hotel_id': '391386', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.7', 'hotelname': 'UTTAM SAGAR,Banaswadi', 'hotel_id': '391445', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.2', 'hotelname': 'JW KITCHEN, JW MARRIOTT HOTEL BENGALURU,Vittal Mallya Road', 'hotel_id': '391457', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': 'YELLOW FIELDS,CV Raman Nagar', 'hotel_id': '391518', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PECOS,Church Street', 'hotel_id': '391638', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': 'SRINIDHI UPACHAR,Banaswadi', 'hotel_id': '391684', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KHAO MIYAA,Indiranagar', 'hotel_id': '391725', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.5', 'hotelname': 'THE BUFFET PLACE,Marathahalli', 'hotel_id': '391857', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.3', 'hotelname': 'BIRYANIWALA,Marathahalli', 'hotel_id': '392155', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.7', 'hotelname': 'MORIZ RESTAURANT,Kundalahalli', 'hotel_id': '392159', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE LOCAL,Koramangala', 'hotel_id': '392228', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.7', 'hotelname': 'TANVI RESTAURANT & BBQ LOUNGE,Sahakara Nagar', 'hotel_id': '392288', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.3', 'hotelname': 'WOK,Residency Road', 'hotel_id': '392555', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TRINITY RESTAURANT,Race Course Road', 'hotel_id': '381545', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KAKAJI,Whitefield', 'hotel_id': '381635', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KOLKATA KITCHEN,Vignan Nagar', 'hotel_id': '349733', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'JS FOOD COURT,Kammanahalli Main Road', 'hotel_id': '391736', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NISARGA GARDEN,Infantry Road', 'hotel_id': '391771', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ANAND PURANI DILLI,Koramangala', 'hotel_id': '351747', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TAMARIND PARADISE,Indiranagar', 'hotel_id': '351815', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'FOOD STREET,Yelahanka', 'hotel_id': '352863', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ROYAL RASOI,Electronics City', 'hotel_id': '354225', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAVOURY SEASHELL RESTAURANT,Koramangala', 'hotel_id': '354845', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': "CHAWLA'S 2,Sahakara Nagar", 'hotel_id': '355710', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'YI MOI CHINESE RESTAURANT,Kalyan Nagar', 'hotel_id': '355846', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'REAL FRESH RESTAURANT,Marathahalli', 'hotel_id': '355916', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SOUTHERN BISTRO,Jeevanbheema Nagar', 'hotel_id': '356137', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'KOREAN FRIED CHICKEN,Kammanahalli Main Road', 'hotel_id': '358199', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'TANGERINE, DAVANAM SAROVAR PORTICO SUITES,Koramangala', 'hotel_id': '359069', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BLACK PEPPER LOUNGE, CASA DE BENGALURU,Koramangala', 'hotel_id': '359343', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MOKSHA,JP Nagar', 'hotel_id': '359463', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'LAJAWAAB,Jayanagar', 'hotel_id': '360316', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CHINESE CONNECTION,Sarjapur Road', 'hotel_id': '360486', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': "MOKSHH'S DHABA,Sarjapur Road", 'hotel_id': '360487', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': "MR IYER'S VEG RESTAURANT,Hennur Road", 'hotel_id': '361217', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ION BAR & KITCHEN,Brigade Road', 'hotel_id': '361479', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'JADE,Whitefield', 'hotel_id': '362088', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'ANDHRA HOUSE,Electronics City', 'hotel_id': '362339', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GOLDEN FORK,Electronics City', 'hotel_id': '362452', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GURU GARDEN,Bannerghatta Main Road', 'hotel_id': '362468', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KUSUM DELUXE,Sarjapur Road', 'hotel_id': '362522', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'PUNJABI KITCHEN,Whitefield', 'hotel_id': '362577', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'PUNJABI KITCHEN,Marathahalli', 'hotel_id': '362578', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PUNJABI TADKA,Bellandur', 'hotel_id': '362593', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'TASTE IT SAROVARA,JP Nagar', 'hotel_id': '363170', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': 'HINT @ HINT,JP Nagar', 'hotel_id': '363551', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'OUTBACK RESTAURANT,Whitefield', 'hotel_id': '363797', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE MONSOON RESTAURANT,HSR Layout', 'hotel_id': '363917', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'RICHIES RAHHAMS,Kammanahalli Main Road', 'hotel_id': '363952', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KAMAT RESTAURANT, KAMAT HOTEL,Whitefield', 'hotel_id': '363999', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BIRIYANI COUNTY,Shantinagar', 'hotel_id': '364010', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'GALAXY RESTAURANT,Ramamurthy Nagar', 'hotel_id': '364045', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'BANJARA MELTING POT,Cunningham Road', 'hotel_id': '364373', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RAICHUR BIRYANI HOUSE,HSR Layout', 'hotel_id': '364462', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'T & U THE RESTAURANT,HSR Layout', 'hotel_id': '365134', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TASTE OF RAJASTHAN,Koramangala', 'hotel_id': '365139', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ARIRANG KOREAN RESTAURANT,Kammanahalli Main Road', 'hotel_id': '365232', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BLU-O RHYTHM & BOWL,Malleshwaram', 'hotel_id': '365783', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CAFE MANGII,Malleshwaram', 'hotel_id': '366398', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ALTO VINO, BENGALURU MARRIOTT HOTEL,Whitefield', 'hotel_id': '367092', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'OJ JAPANESE RESTAURANT, EVOMA HOTEL,KR Puram', 'hotel_id': '367095', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SUNNY SPICE,Dasarahalli', 'hotel_id': '367155', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CURRYS AND DOSAS,Whitefield', 'hotel_id': '367267', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SHAAN-E-PUNJAB,Ulsoor', 'hotel_id': '367290', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'PARKE,Kalyan Nagar', 'hotel_id': '57301', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TEMPTATIONS,RT Nagar', 'hotel_id': '59215', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'RUCHI,Ulsoor', 'hotel_id': '63089', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'GEETA FOOD INNS,JP Nagar', 'hotel_id': '63621', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'FLAMES LOUNGE,BTM Layout', 'hotel_id': '63859', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SHAMIANA,RT Nagar', 'hotel_id': '66477', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SMOKIN DOGZ,Sarjapur Road', 'hotel_id': '70091', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'FASTA PASTA,Sarjapur Road', 'hotel_id': '70093', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHUTNEY CHARLIE,Sarjapur Road', 'hotel_id': '70095', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BIRIYANI BAZAR,St. Marks Road', 'hotel_id': '320881', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'PEENYA CONTINENTAL,Peenya Industrial Area', 'hotel_id': '325149', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NANDHINI RESTAURANT,Banashankari', 'hotel_id': '343571', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'INFINITY, THE ZURI,Whitefield', 'hotel_id': '343779', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PRIYADARSHINI RESTAURANT,Gandhinagar', 'hotel_id': '346653', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'FLAVOURS, RADHA HOMETEL,Whitefield', 'hotel_id': '348015', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.7', 'hotelname': 'NOUVELLE GARDEN,JP Nagar', 'hotel_id': '367802', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TE PAPA WINE DINE RESTAURANT,Whitefield', 'hotel_id': '368007', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PARS RESTAURANT,Kalyan Nagar', 'hotel_id': '368091', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.1', 'hotelname': 'PALAZO CLUB & LOUNGE,Koramangala', 'hotel_id': '368305', 'totalvotes': u'11 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BIRYANI GHAR,Koramangala', 'hotel_id': '369918', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SNOW LION RESTAURANT,Brigade Road', 'hotel_id': '370510', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SHAADI KI BIRYANI,Shivajinagar', 'hotel_id': '373091', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SITARA,Indiranagar', 'hotel_id': '350767', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'AMULYA RESTAURANT, CRN CANARY SAPPHIRE,Gandhinagar', 'hotel_id': '351095', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.7', 'hotelname': 'KABAB MANOR,RT Nagar', 'hotel_id': '351097', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MOZO,Frazer Town', 'hotel_id': '351323', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MUGAL TREAT,HSR Layout', 'hotel_id': '363032', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHAKRA DINER & BAR,Sarjapur Road', 'hotel_id': '358680', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MAYURI,New BEL Road', 'hotel_id': '1749', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'GRAND TAJ RESTAURANT,Jayanagar', 'hotel_id': '1783', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': "ADIGA'S FOOD LINE,Jayanagar", 'hotel_id': '1787', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TAVAA,Bangalore GPO', 'hotel_id': '1857', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAYURI,JC Road', 'hotel_id': '1922', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SRINIDHI SAGAR,Shantinagar', 'hotel_id': '1931', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SUKH SAGAR,Gandhinagar', 'hotel_id': '1932', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'OASIS,Brigade Road', 'hotel_id': '1951', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'KADAMBA,Whitefield', 'hotel_id': '1986', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'KALPAKA,Kammanahalli Main Road', 'hotel_id': '1987', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'TURMERIC FOOD LAND,Nagavara', 'hotel_id': '2072', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BALUCHI, THE LALIT ASHOK,Kumara Park', 'hotel_id': '2081', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BIRYANI PARADISE,Rajajinagar', 'hotel_id': '2086', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.8', 'hotelname': 'HORIZON BAR AND RESTAURANT,Basaveshwara Nagar', 'hotel_id': '2098', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MOON LIGHT,Malleshwaram', 'hotel_id': '2099', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'MANE TINDY,Malleshwaram', 'hotel_id': '2109', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE TAAMARA RESTAURANT, HOTEL MAURYA,Gandhinagar', 'hotel_id': '2135', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'VEERALAXMI,Vasanthnagar', 'hotel_id': '2142', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'AAMANTHRANA,BTM Layout', 'hotel_id': '2152', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'FUN FOOD,BTM Layout', 'hotel_id': '2156', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.2', 'hotelname': 'HOTEL SANMAN,Basavanagudi', 'hotel_id': '2166', 'totalvotes': u'5 Ratings'}
+{'rating': u'2.0', 'hotelname': 'IN SWING,Banashankari', 'hotel_id': '2193', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'JP NAGAR BAR & RESTAURANT,JP Nagar', 'hotel_id': '2195', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': "KOLLAPURI'S,Jayanagar", 'hotel_id': '2213', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'KOVAI SARAVANA BHAVAN,BTM Layout', 'hotel_id': '2214', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'KAMAT RESTAURANT,Basavanagudi', 'hotel_id': '13133', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GHARANA,HAL', 'hotel_id': '13189', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.7', 'hotelname': 'HOTEL AMBIKA,Rajajinagar', 'hotel_id': '13374', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TEASE, VIVANTA BY TAJ,Whitefield', 'hotel_id': '13964', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TRINITY CLUB LOUNGE, FORTUNE SELECT TRINITY,Whitefield', 'hotel_id': '14077', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BEAN THERE DONE THAT,MG Road', 'hotel_id': '14107', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE COURTYARD,Old Madras Road', 'hotel_id': '14216', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ORIENTAL SPICE,Infantry Road', 'hotel_id': '14381', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PEPPER,Whitefield', 'hotel_id': '14701', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HOTEL JANARDHAN,Highgrounds', 'hotel_id': '15994', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HOT ATTACK,Electronics City', 'hotel_id': '18023', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'AMOEBA SPORTS BAR,Church Street', 'hotel_id': '19474', 'totalvotes': u'3 Ratings'}
+{'rating': u'1.0', 'hotelname': 'THE ORIENTAL PAVILION, FORTUNE SELECT TRINITY,Whitefield', 'hotel_id': '19714', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE TAPAS LOUNGE,Dickenson Road', 'hotel_id': '20481', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'NAVAMI - HOTEL SHANTHI PARK,Indiranagar', 'hotel_id': '27798', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HAO FAAN,Kammanahalli Main Road', 'hotel_id': '36275', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CASABLANCA, THE PRIDE HOTEL,Richmond Town', 'hotel_id': '37360', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'SWATHI GARDENIA,Sahakara Nagar', 'hotel_id': '38780', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SAGAR CAFE,Cunningham Road', 'hotel_id': '42449', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'THE PALM SPRINGS, THE BELAIR HOTEL,Marathahalli', 'hotel_id': '42808', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BIRYANI@KORMANGALA,Koramangala', 'hotel_id': '43148', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEST OF BENGAL,Frazer Town', 'hotel_id': '46356', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FOOD ZONE,Basaveshwara Nagar', 'hotel_id': '7206', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'INDIAN AFFAIR, THE CHANCERY PAVILION,Residency Road', 'hotel_id': '7444', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': "NALA'S CAFE,Koramangala", 'hotel_id': '7869', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.2', 'hotelname': "AARIYA'S,BTM Layout", 'hotel_id': '7870', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'EMPEROR RESTAURANT,Hennur Road', 'hotel_id': '8162', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEIJING BITES,Raj Mahal Vilas Extension', 'hotel_id': '8244', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MUSHROOM,Koramangala', 'hotel_id': '8344', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PALATE BAR AND RESTAURANT,Bannerghatta Main Road', 'hotel_id': '8382', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PARIVAR,Jayanagar', 'hotel_id': '8414', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.5', 'hotelname': 'MADURA GRAND RESTAURANT,Rajajinagar', 'hotel_id': '8439', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'LIQUID LOUNGE AND BAR, HYATT BANGALORE,MG Road', 'hotel_id': '8529', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'NEW PUNJABI HOTEL,Airport Road', 'hotel_id': '8558', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MALABAR COAST RESTUARANT,Marathahalli', 'hotel_id': '8646', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FUSION EXPRESS, MGM MARK WHITEFIELD,Whitefield', 'hotel_id': '8738', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LITTLE CHEF,Church Street', 'hotel_id': '8814', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MAS - THE FAMILY RESTAURANT,Electronics City', 'hotel_id': '8818', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'YELLOW FIELDS,Electronics City', 'hotel_id': '8849', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE SPIRIT LOUNGE,Airport Road', 'hotel_id': '8963', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE GRAND MAGRATH HOTEL,Magrath Road', 'hotel_id': '8966', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'PANCHAMI GARDEN,Bannerghatta Main Road', 'hotel_id': '9195', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'HAKA,Old Madras Road', 'hotel_id': '9213', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MUTHASHI,Koramangala', 'hotel_id': '9243', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'AMNESIA, THE CHANCERY PAVILION ,Residency Road', 'hotel_id': '9291', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KRISHNA CHINAI RESTAURANT,Bannerghatta Main Road', 'hotel_id': '9432', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FEDA,Vijaynagar', 'hotel_id': '12145', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'KALKURA RESTAURANT,Gandhinagar', 'hotel_id': '12345', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HYDERABAD DURBAR,Basavanagudi', 'hotel_id': '12991', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'PRASIDHI FAST FOOD AND RESTAURANT,Jayanagar', 'hotel_id': '2585', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'KOHINOOR,Koramangala', 'hotel_id': '2665', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PALLAVI,Electronics City', 'hotel_id': '2756', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'TAJ KUTEERAM,Hesaraghatta', 'hotel_id': '2802', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ANNAKUTA RESTAURANT,Rajajinagar', 'hotel_id': '2820', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'KOSHYS OUTPOST CALCUTTA CHAATS,Brigade Road', 'hotel_id': '2823', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.7', 'hotelname': 'KADAMBA VEG,Basaveshwara Nagar', 'hotel_id': '4829', 'totalvotes': u'3 Ratings'}
+{'rating': u'4.0', 'hotelname': "LEO'S,BTM Layout", 'hotel_id': '2221', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': "NARMADHA'S,BTM Layout", 'hotel_id': '2230', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'PORT OF PAVILION,Gandhinagar', 'hotel_id': '2237', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE LEGEND,Koramangala', 'hotel_id': '2270', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'SOUTH POINT PUB,Basavanagudi', 'hotel_id': '2284', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'HYDERABAD MAHAL,Church Street', 'hotel_id': '2307', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'MUDDE MADAPPA,Gandhinagar', 'hotel_id': '2356', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RAMANNA MILITARY HOTEL,Jayanagar', 'hotel_id': '2361', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MAYURI,Koramangala', 'hotel_id': '2393', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.4', 'hotelname': 'PUNJABI KITCHEN,Mahadevapura', 'hotel_id': '362591', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.6', 'hotelname': 'MANDRAKE,St. Marks Road', 'hotel_id': '399584', 'totalvotes': u'5 Ratings'}
+{'rating': u'4.4', 'hotelname': "BUBBLE'S BITE,Sanjay Nagar", 'hotel_id': '405677', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.6', 'hotelname': 'PETOO,Koramangala', 'hotel_id': '407920', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.5', 'hotelname': 'EARTH PLATE,HSR Layout', 'hotel_id': '395266', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.5', 'hotelname': '49 PARATHA GALI,HSR Layout', 'hotel_id': '410436', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.6', 'hotelname': 'CAFE TOSCANO,Jayanagar', 'hotel_id': '396121', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BFC FAMILY RESTAURANT,Vignan Nagar', 'hotel_id': '364060', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'VAPOUR ,Indiranagar', 'hotel_id': '385964', 'totalvotes': u'5 Ratings'}
+{'rating': u'3.2', 'hotelname': 'GRILL SQUARE,Jayanagar', 'hotel_id': '397582', 'totalvotes': u'6 Ratings'}
+{'rating': u'1.0', 'hotelname': 'THE BIRYANIS HOUSE,Jeevanbheema Nagar', 'hotel_id': '351061', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.5', 'hotelname': 'CAUVERY HYDERABADI BIRIYANI,Kadubeesanahalli', 'hotel_id': '391055', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.3', 'hotelname': 'BANGALORE BISTRO,Cunningham Road', 'hotel_id': '361488', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.3', 'hotelname': 'BEYOND CHINA,Indiranagar', 'hotel_id': '369617', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RELISH,Raj Mahal Vilas Extension', 'hotel_id': '2119', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'UJWAL FAMILY RESTAURANT,Sanjay Nagar', 'hotel_id': '2140', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.4', 'hotelname': 'LA TERRACE,Electronics City', 'hotel_id': '53717', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SHIV SAGAR,Koramangala', 'hotel_id': '1928', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'KESAR RESTAURANT,Kundalahalli', 'hotel_id': '384670', 'totalvotes': u'6 Ratings'}
+{'rating': u'2.5', 'hotelname': 'PETOO,HSR Layout', 'hotel_id': '407921', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.5', 'hotelname': 'SALT EDITION 1,Indiranagar', 'hotel_id': '400814', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.8', 'hotelname': 'SOHO STREET,Koramangala', 'hotel_id': '404523', 'totalvotes': u'4 Ratings'}
+{'rating': u'1.0', 'hotelname': 'ARYA, ABHIMAANI VASATHI,Rajajinagar', 'hotel_id': '222141', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': '20 CHAR, MATTHAN HOTEL,Indiranagar', 'hotel_id': '67157', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ASIANA XPRESS,Indiranagar', 'hotel_id': '9173', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': "AMMI'S BIRYANI,Kalyan Nagar", 'hotel_id': '361742', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CINNAMON,Indiranagar', 'hotel_id': '8808', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ATITHI,Indiranagar', 'hotel_id': '2006', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CRAZY KABABS N CURRY,Indiranagar', 'hotel_id': '55460', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'AKSHAYA DELUXE,New BEL Road', 'hotel_id': '349805', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'GOKUL VEG,Yelahanka', 'hotel_id': '353335', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BOMBAY BLUE EXPRESS,MG Road', 'hotel_id': '1757', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SHIVBHOJ,Yeshwanthpur', 'hotel_id': '382385', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': "DANDE'S HYDERABAD BIRYANI,Hosur Road", 'hotel_id': '400236', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'DELICACY,Kalyan Nagar', 'hotel_id': '362440', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PUNJABI TADKA,Sarjapur Road', 'hotel_id': '187895', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SREE NANDHANA PALACE BY SREE NANDHINI PALACE,New BEL Road', 'hotel_id': '350717', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.9', 'hotelname': "MANE RUCHI'S PALATE,Nagarabhavi", 'hotel_id': '412278', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAYU RESTAURANT,Jalahalli', 'hotel_id': '392154', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SWAAD,Bellandur', 'hotel_id': '364007', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BARBEQUE NATION,Kalyan Nagar', 'hotel_id': '392024', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.1', 'hotelname': 'GO ITALIA,Koramangala', 'hotel_id': '395527', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FLAVOURS,Bannerghatta Main Road', 'hotel_id': '37589', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'NISARGA GARDEN,Basavanagudi', 'hotel_id': '2595', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAINLAND CHINA,Whitefield', 'hotel_id': '363925', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'BEIJING BITES,Whitefield', 'hotel_id': '237941', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'UDUPI PARK FAMILY RESTAURANT,Indiranagar', 'hotel_id': '241839', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SHYVAN,Lalbagh Road', 'hotel_id': '2252', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'KRISHNA SAGAR,Kalyan Nagar', 'hotel_id': '26938', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'SRI KRISHNA SAGAR,Banashankari', 'hotel_id': '9492', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.2', 'hotelname': 'UPSOUTH ,Bannerghatta Main Road', 'hotel_id': '393374', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.0', 'hotelname': 'MAST KALANDAR,Whitefield', 'hotel_id': '55780', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'MAST KALANDAR,Sarjapur Road', 'hotel_id': '58979', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'MAST KALANDAR,Jeevanbheema Nagar', 'hotel_id': '151167', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KAATI ZONE EMBASSY GOLF LINKS,Domlur', 'hotel_id': '8668', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.9', 'hotelname': "CHILLY'S,Hosur Road", 'hotel_id': '362869', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': "MANI'S DUM BIRYANI,Koramangala", 'hotel_id': '365061', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.8', 'hotelname': 'DARASUNI - FLAVOUR OF PUNJAB,Sanjay Nagar', 'hotel_id': '390700', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.9', 'hotelname': 'SBX - SPORTS BOX, SOUL SPACE ARENA MALL,Dodda Nakkundi', 'hotel_id': '391433', 'totalvotes': u'7 Ratings'}
+{'rating': u'3.3', 'hotelname': 'ABHIRUCHI HOTEL,BTM Layout 2nd Stage', 'hotel_id': '365945', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': '18 CHINA TOWN,Banaswadi', 'hotel_id': '13617', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHHOTE MIIYAN ,Cunningham Road', 'hotel_id': '350105', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CURRY SPRIG,Malleshwaram', 'hotel_id': '321857', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CURRY NATION,Koramangala', 'hotel_id': '343665', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'DAL ROTI,JP Nagar', 'hotel_id': '357515', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'DOLPHINS BAR & RESTAURANT,Wheeler Road', 'hotel_id': '1971', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'DURBAR, SHERATON BANGALORE,Malleshwaram', 'hotel_id': '154981', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'BEIJING BITES,Vidyaranyapura', 'hotel_id': '238047', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEIJING BITES,Vidyaranyapura', 'hotel_id': '51340', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'THE ROYAL TREAT,Basavanagudi', 'hotel_id': '9111', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CAFE MAMMA MIA,Basaveshwara Nagar', 'hotel_id': '354587', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'HOTEL TIBET,Koramangala', 'hotel_id': '356043', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHINA GATE,Indiranagar', 'hotel_id': '7406', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'DELICACY CHINAMAN RESTAURANT,Kalyan Nagar', 'hotel_id': '62937', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': 'A2B VEG RESTAURANT,BTM Layout', 'hotel_id': '395024', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BEIJING BITES,Vijaynagar', 'hotel_id': '238041', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': "AMMI'S BIRYANI,Kumaraswamy Layout", 'hotel_id': '393612', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': "AMMI'S BIRYANI,Koramangala", 'hotel_id': '393768', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CLOVES THE RESTAURANT,Whitefield', 'hotel_id': '362430', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BEIJING BITES,Malleshwaram', 'hotel_id': '237997', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': 'AMBUR STAR BRIYANI,BTM Layout', 'hotel_id': '363950', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'NEEL,Raj Mahal Vilas Extension', 'hotel_id': '2454', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BAR CODE - THE LOUNGE,Koramangala', 'hotel_id': '186843', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.4', 'hotelname': 'BIRYANI BOWL ,Bannerghatta Main Road', 'hotel_id': '391781', 'totalvotes': u'3 Ratings'}
+{'rating': u'0.9', 'hotelname': 'ADYAR ANANDA BHAVAN,Marathahalli', 'hotel_id': '390724', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ADYAR ANANDA BHAVAN,Nagavara', 'hotel_id': '390729', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CHUNGS CHINESE CORNER,Cunningham Road', 'hotel_id': '240901', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CHUNGS CHINESE CORNER,Kalyan Nagar', 'hotel_id': '240935', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NEW IMPERIAL RESTAURANT,Banashankari', 'hotel_id': '1770', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SWATHI RING VIEW RESTAURANT,Nagarabhavi', 'hotel_id': '390938', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': "SWATHI SPICE 'N' ICE,HSR Layout", 'hotel_id': '351069', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.5', 'hotelname': 'MY BAR,Koramangala', 'hotel_id': '400323', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.2', 'hotelname': 'LAZEEZ - A MULTI CUISINE RESTAURANT,Yelahanka New Town', 'hotel_id': '395453', 'totalvotes': u'8 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHUNG WAH,Church Street', 'hotel_id': '1791', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BEIJING BITES,Sahakara Nagar', 'hotel_id': '238025', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'BEIJING BITES,JP Nagar', 'hotel_id': '354863', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.5', 'hotelname': 'BEIJING BITES,RT Nagar', 'hotel_id': '238009', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'NEW SHANTI SAGAR,Domlur', 'hotel_id': '364035', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': "VASUDEV ADIGA'S ,Koramangala", 'hotel_id': '391813', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.7', 'hotelname': 'AL SADIQUE FRIED CHICKEN,Magadi Road', 'hotel_id': '355825', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GUFHA, HOTEL PAI VISTA,Nazarbad', 'hotel_id': '222821', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'GADANG, HOTEL PARK PLAZA,Marathahalli', 'hotel_id': '225161', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'JUKEBOX STEAKHOUSE,Kammanahalli Main Road', 'hotel_id': '392742', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': "LEANIN' TREE ART CAFE,Basavanagudi", 'hotel_id': '393668', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.3', 'hotelname': 'BIRIYANI HOUSE,Nagavara', 'hotel_id': '394210', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'THE EGG FACTORY,Whitefield', 'hotel_id': '394888', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'PLAZA PREMIUM LOUNGE,Kempe Gowda Road', 'hotel_id': '395125', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SINGKONG RESTAURANT,Vittal Mallya Road', 'hotel_id': '396231', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.2', 'hotelname': 'THE 19TH MAIN CAFE,HSR Layout', 'hotel_id': '396399', 'totalvotes': u'6 Ratings'}
+{'rating': u'4.0', 'hotelname': 'URBAN ADDA,New BEL Road', 'hotel_id': '397171', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'THE BIG KAHUNA,Mahadevapura', 'hotel_id': '397403', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'THE BIG KAHUNA,Malleshwaram', 'hotel_id': '397406', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'RUNWAY 70,Sarjapur Road', 'hotel_id': '398280', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MAREA, HOWARD JOHNSON BENGALURU HEBBAL,Hebbal', 'hotel_id': '398779', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'WHITE ELEPHANT,Indiranagar', 'hotel_id': '399242', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'ZENGI,BTM Layout', 'hotel_id': '399688', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SZECHUAN DRAGON,Basavanagudi', 'hotel_id': '404470', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'HOPPIPOLA,Church Street', 'hotel_id': '404558', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'NOT JUST DESSERTS,HSR Layout', 'hotel_id': '406725', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.3', 'hotelname': 'GRAND MATSYA,Sarjapur Road', 'hotel_id': '406845', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.3', 'hotelname': 'MURLI,Bellandur', 'hotel_id': '406908', 'totalvotes': u'3 Ratings'}
+{'rating': u'5.0', 'hotelname': 'MAVENS,Koramangala', 'hotel_id': '400326', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'GRUB RESTAURANT & LOUNGE,Yelahanka', 'hotel_id': '400415', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BY THE WAY,Whitefield', 'hotel_id': '400806', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE TERRACE,Whitefield', 'hotel_id': '400835', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': "HARRY'S BAR & CAFE,Whitefield", 'hotel_id': '402019', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ZAYAN BIRIYANI POINT,Guttahalli', 'hotel_id': '402077', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'FIAT CAFFE,Domlur', 'hotel_id': '404310', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'DRINKS ON MG,MG Road', 'hotel_id': '404329', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'RASOVARA,Vittal Mallya Road', 'hotel_id': '400267', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ADRAK N LEHSOON,Banaswadi', 'hotel_id': '382593', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.0', 'hotelname': 'DANA PANI RESTAURANT,JP Nagar', 'hotel_id': '383306', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.9', 'hotelname': 'BLUE LAGOON,Shantinagar', 'hotel_id': '384055', 'totalvotes': u'7 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FRAGRANT KITCHEN,Kalyan Nagar', 'hotel_id': '384210', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'MAMMA MEXICANA,MG Road', 'hotel_id': '387280', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.5', 'hotelname': 'GOLDEN GRILL FINE DINE,Basaveshwara Nagar', 'hotel_id': '378338', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'THE BUFFET CARNIVAL,JP Nagar', 'hotel_id': '379829', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'BHOJOHORI MANNA,JP Nagar', 'hotel_id': '381384', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.5', 'hotelname': "WATTA'S MULTI CUISINE RESTAURANT,Airport Road", 'hotel_id': '391162', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.7', 'hotelname': 'BIRYANI FLAMES,Marathahalli', 'hotel_id': '391274', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'CC LOUNGE,Koramangala', 'hotel_id': '391442', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'MOTIS KITCHEN,New Thippasandra', 'hotel_id': '391581', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'FALCON GREENS,Devanahalli', 'hotel_id': '391828', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ANDHRA CHILLIES,Ramamurthy Nagar', 'hotel_id': '391836', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'BIRYANI PARK,Brookefield', 'hotel_id': '392153', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'HOTEL RAJ,Cubbon Park', 'hotel_id': '392183', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': "RAGOO'S KITCHEN,Mahalakshmi Layout", 'hotel_id': '392463', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KAKAJI,CV Raman Nagar', 'hotel_id': '381815', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'NEW DAANA PAANI,BTM Layout', 'hotel_id': '391811', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'FRONTIER MAIL,Devasandra', 'hotel_id': '387838', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.6', 'hotelname': 'CINNAMON MULTI CUISINE RESTAURANT, CINNAMON HOTELS,Hesaraghatta', 'hotel_id': '364945', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.0', 'hotelname': 'SPICE IT, IBIS HOTEL,Hosur Road', 'hotel_id': '354317', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': "SARATHI'S SPICY TADKA,Residency Road", 'hotel_id': '355723', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.2', 'hotelname': 'ALIBI - THE RESTO-BAR, MAYA INTERNATIONAL,Brigade Road', 'hotel_id': '355761', 'totalvotes': u'6 Ratings'}
+{'rating': u'3.0', 'hotelname': 'TANGERINE - SIZZLERS & MORE,Koramangala', 'hotel_id': '361967', 'totalvotes': u'4 Ratings'}
+{'rating': u'5.0', 'hotelname': 'CUPPA BISTRO,Koramangala', 'hotel_id': '362160', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'SANGAM,Kammanahalli Main Road', 'hotel_id': '362611', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SUPPY NOODLES,New BEL Road', 'hotel_id': '363156', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'TANDOORI CHOWK,Mahadevapura', 'hotel_id': '363164', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.4', 'hotelname': 'THE OCEA RESTAURANT, THE OCEA INTERNATIONAL HOTEL,Brigade Road', 'hotel_id': '363177', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'TASTY TREAT,HSR Layout', 'hotel_id': '363627', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'TASTE OF BENGAL,Kalyan Nagar', 'hotel_id': '364033', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'HOT SOUP & BOWL,Vijaynagar', 'hotel_id': '364595', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': 'INDRADHANUSH VEG RESTAURANT,Mysore Road', 'hotel_id': '365081', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'MILESTONE 67,Mysore Road', 'hotel_id': '365099', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'RASOI,Banashankari', 'hotel_id': '365111', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'GULMOHAR, PARKFIELD RESOTEL,Hoskote', 'hotel_id': '365885', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.5', 'hotelname': 'FINE FLAVORS, PANCHVATI COMFORTS,Vasanthapura', 'hotel_id': '366595', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'VEEKES AND THOMAS,Bannerghatta Main Road', 'hotel_id': '366716', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': u'ITS MIRCHI,Hosur Road', 'hotel_id': '327001', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'EMPIRE RESTAURANT,V.V.Mohalla', 'hotel_id': '343857', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'FERGHANA,Jayanagar', 'hotel_id': '372953', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BARBEQUE JUNCTION,Koramangala', 'hotel_id': '373172', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'BANANA LEAF,Rajajinagar', 'hotel_id': '350747', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SHEESH MAHAL,Lavelle Road', 'hotel_id': '1846', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE ORIENTAL SPICE, ASHRAYA INTERNATIONAL HOTEL,Infantry Road', 'hotel_id': '1862', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'NOODLE KING,Banaswadi', 'hotel_id': '2061', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.2', 'hotelname': 'SHARAVATHI,Jakkur', 'hotel_id': '2065', 'totalvotes': u'3 Ratings'}
+{'rating': u'2.0', 'hotelname': "BHIMA'S GARDEN,Seshadripuram", 'hotel_id': '2084', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'HOTEL SHREE KRISHNA,Geetha Colony', 'hotel_id': '2189', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'JAIN VATIKA,Jayanagar', 'hotel_id': '2196', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'A MASAALA HOUSE,Cunningham Road', 'hotel_id': '13686', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'SHUBHAM RESTAURANT AND CATERERS,Koramangala', 'hotel_id': '13718', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.5', 'hotelname': 'PRITHVI RESTAURANT,Gandhinagar', 'hotel_id': '14380', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': "NANDITHA'S,Bannerghatta Main Road", 'hotel_id': '30295', 'totalvotes': u'1 Ratings'}
+{'rating': u'NA', 'hotelname': 'MUSTARD, GRAND PAVILION,Shantinagar', 'hotel_id': '13081', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'GRAND TRUNK ROAD,Shantinagar', 'hotel_id': '2741', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'NEW SAGAR FAST FOOD,Rajajinagar', 'hotel_id': '2311', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'LITTLE CHINA,MG Road', 'hotel_id': '2444', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'ZUCCA RESTRO BAR,Indiranagar', 'hotel_id': '404816', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'PETOO,BTM Layout', 'hotel_id': '407923', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'KESARIYA RESTAURANT,JP Nagar', 'hotel_id': '407723', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.1', 'hotelname': "WATSON'S,Ulsoor", 'hotel_id': '404950', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.3', 'hotelname': 'PETOO,Domlur', 'hotel_id': '407922', 'totalvotes': u'3 Ratings'}
+{'rating': u'0.4', 'hotelname': 'FUNKY VILLA,Koramangala', 'hotel_id': '408104', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.4', 'hotelname': 'HYDERABADI PARADISE,Domlur', 'hotel_id': '364031', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.6', 'hotelname': 'BIRYANI HUB,Bellandur', 'hotel_id': '362412', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.1', 'hotelname': 'UTTARKHAND RESTAURANT, HOTEL TRINITY ISLE,Seshadripuram', 'hotel_id': '353595', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.7', 'hotelname': 'LAKSHMI NORTH INDIAN RESTAURANT,Electronics City', 'hotel_id': '392203', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'SODABOTTLEOPENERWALA,Lavelle Road', 'hotel_id': '407325', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.7', 'hotelname': 'PANCHAVATI GAURAV,Magrath Road', 'hotel_id': '384383', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.6', 'hotelname': 'THE WAREHOUSE,Indiranagar', 'hotel_id': '400351', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.8', 'hotelname': 'SARAYU,Rajajinagar', 'hotel_id': '357563', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.9', 'hotelname': 'BLUE FROG,Church Street', 'hotel_id': '408357', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.1', 'hotelname': 'PARADIGM SHIFT VEGAN CAFE,Koramangala', 'hotel_id': '393954', 'totalvotes': u'9 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THE SWAT FOOD TRUCK,Indiranagar', 'hotel_id': '411912', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.2', 'hotelname': 'MIRCH MASALA,Hosur Road', 'hotel_id': '362919', 'totalvotes': u'2 Ratings'}
+{'rating': u'0.7', 'hotelname': "SRINATHJI'S,Indiranagar", 'hotel_id': '376651', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'GRILLS & ROLLS,JP Nagar', 'hotel_id': '390789', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.0', 'hotelname': 'CASINO RESTAURANT,New BEL Road', 'hotel_id': '362418', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'ANAND VIHAR,RT Nagar', 'hotel_id': '391552', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.3', 'hotelname': 'HANGING GARDENS BISTRO,Kasturi Nagar', 'hotel_id': '396675', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.6', 'hotelname': 'COASTA BAY,Mahadevapura', 'hotel_id': '400778', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.7', 'hotelname': 'SHIV SAGAR,Mission Road', 'hotel_id': '1929', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': "AMMI'S BIRYANI,Mahadevapura", 'hotel_id': '393597', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'AAHA ANDHRA,Nagavara', 'hotel_id': '395102', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.0', 'hotelname': 'AVIATOR, GOLDFINCH RETREAT,Tarabanahalli', 'hotel_id': '389790', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'INDY HOP,Koramangala', 'hotel_id': '404303', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'BIRYANI PALACE,HSR Layout', 'hotel_id': '391153', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.6', 'hotelname': 'PARADISE,Indiranagar', 'hotel_id': '402080', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.0', 'hotelname': "HARRY'S BAR & CAFE,Indiranagar", 'hotel_id': '397526', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.4', 'hotelname': 'TIGER TRAIL, HOTEL ROYAL ORCHID,Airport Road', 'hotel_id': '405883', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.3', 'hotelname': 'THARAVADU FAMILY RESTAURANT,Hosur Road', 'hotel_id': '382590', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': 'SREE NANDHANA PALACE BY SREE NANDHINI PALACE ,Koramangala', 'hotel_id': '351107', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'KUDLA BEACH FAMILY RESTAURANT,Rajajinagar', 'hotel_id': '391859', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.3', 'hotelname': 'INDY HOP,BTM Layout 2nd Stage', 'hotel_id': '412275', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.7', 'hotelname': 'CHAKH DE PUNJAB,Marathahalli', 'hotel_id': '411786', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.6', 'hotelname': 'HOTEL HISHETHA,JP Nagar', 'hotel_id': '412603', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.4', 'hotelname': 'AMRUTHAM RESTAURANT,CV Raman Nagar', 'hotel_id': '397292', 'totalvotes': u'3 Ratings'}
+{'rating': u'3.0', 'hotelname': 'THE HIGHER TASTE,Mysore Road', 'hotel_id': '241497', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'UPSOUTH,Koramangala', 'hotel_id': '393359', 'totalvotes': u'2 Ratings'}
+{'rating': u'NA', 'hotelname': 'MAST KALANDAR,Cambridge Layout', 'hotel_id': '361622', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.4', 'hotelname': 'TAWA GHAR KA,HSR Layout', 'hotel_id': '413975', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.8', 'hotelname': 'SHUBHAM RESTAURANT,Durgigudi', 'hotel_id': '342261', 'totalvotes': u'4 Ratings'}
+{'rating': u'2.6', 'hotelname': 'NESARA,Chikkabanavara', 'hotel_id': '360053', 'totalvotes': u'4 Ratings'}
+{'rating': u'4.3', 'hotelname': 'NAMANA RESTAURANT,Basaveshwara Nagar', 'hotel_id': '349933', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.9', 'hotelname': 'THE BUNGALOW BAR & KITCHEN,Whitefield', 'hotel_id': '407557', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.6', 'hotelname': 'LINX RESTAURANT, PREMIER INN,Whitefield', 'hotel_id': '357273', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.6', 'hotelname': 'GURUKRUPA PARATHA HOUSE,Kodihalli', 'hotel_id': '390954', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'CHINITA,Indiranagar', 'hotel_id': '396443', 'totalvotes': u'2 Ratings'}
+{'rating': u'3.1', 'hotelname': "GILLY'S RESTO - BAR,Koramangala", 'hotel_id': '397673', 'totalvotes': u'4 Ratings'}
+{'rating': u'5.0', 'hotelname': '11 2 11 - VIJAYAWADA STYLE,Koramangala', 'hotel_id': '390762', 'totalvotes': u'2 Ratings'}
+{'rating': u'2.6', 'hotelname': 'KRISHNA PUNJABI,Whitefield', 'hotel_id': '365055', 'totalvotes': u'2 Ratings'}
+{'rating': u'1.0', 'hotelname': "AMMI'S BIRYANI,New BEL Road", 'hotel_id': '362273', 'totalvotes': u'1 Ratings'}
+{'rating': u'5.0', 'hotelname': 'BHAGINI BELLANDUR,Bellandur', 'hotel_id': '362389', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.3', 'hotelname': 'MEGHANA FOODS,Indiranagar', 'hotel_id': '407741', 'totalvotes': u'1 Ratings'}
+{'rating': u'0.3', 'hotelname': "MAA REDDY'S HYDERABADI DUM KA BIRYANI,Electronics City", 'hotel_id': '362530', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.7', 'hotelname': 'HOTEL ROYAL DARBAR,Whitefield', 'hotel_id': '401052', 'totalvotes': u'4 Ratings'}
+{'rating': u'3.0', 'hotelname': 'ADYAR ANANDA BHAVAN,HSR Layout', 'hotel_id': '390731', 'totalvotes': u'2 Ratings'}
+{'rating': u'5.0', 'hotelname': 'ADYAR ANANDA BHAVAN,Electronics City', 'hotel_id': '390751', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'ADYAR ANANDA BHAVAN,Malleshwaram', 'hotel_id': '8918', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'ADYAR ANANDA BHAVAN,Magadi Road', 'hotel_id': '242929', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.0', 'hotelname': 'XPLODE,Sarjapur Road', 'hotel_id': '400940', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.0', 'hotelname': 'NIZAM SPICE,JP Nagar', 'hotel_id': '404670', 'totalvotes': u'1 Ratings'}
+{'rating': u'2.9', 'hotelname': "SHINE'S MUGHAL DURBAR,Banashankari", 'hotel_id': '361727', 'totalvotes': u'5 Ratings'}
+{'rating': u'1.0', 'hotelname': 'TWIST OF TASTE,HBR Layout', 'hotel_id': '395271', 'totalvotes': u'1 Ratings'}
+{'rating': u'1.7', 'hotelname': 'WAREABOUTS GRILL & LOUNGE,Marathahalli', 'hotel_id': '405005', 'totalvotes': u'2 Ratings'}
+{'rating': u'4.3', 'hotelname': 'DICE N DINE,Koramangala', 'hotel_id': '398259', 'totalvotes': u'3 Ratings'}
+{'rating': u'0.4', 'hotelname': 'NEW SHANTHI SAGAR,Rajajinagar', 'hotel_id': '391557', 'totalvotes': u'1 Ratings'}
+{'rating': u'4.5', 'hotelname': 'THANIMA,Electronics City', 'hotel_id': '391653', 'totalvotes': u'1 Ratings'}
+{'rating': u'3.8', 'hotelname': 'CHANDRAPPA HOTEL,Yeshwanthpur', 'hotel_id': '391748', 'totalvotes': u'1 Ratings'}
