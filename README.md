@@ -8,6 +8,8 @@ To recommend restaurants based on the food items which the user wants to eat and
 
 ### Contributers : 
 
+[Tasdik Rahman](https://github.com/prodicus)
+
 [Akhil Gupta](https://github.com/akhilgupta-official)
 
 [Sarang Sharma](https://github.com/sarang-sharma)
