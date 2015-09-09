@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 '''
+Author : Tasdik Rahman
+
 To read the .txt files inside the hotel folders and then append all those files into a single file 
 in accordance to the name of the file
 '''

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 '''
-Author = Tasdik Rahman
+Authors = Tasdik Rahman, Akhil Gupta
 
 Scipt to clean the images from any background noise in the best way possible without training pytesser
 '''

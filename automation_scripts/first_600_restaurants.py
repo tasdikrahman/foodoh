@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 '''
+Author : Tasdik Rahman
+
 To get the name of the first 700 restaurants in the file "burrp_bangalore.txt" and then move the files in 
 "images" directory to another directory called "first_600_restaurants" 
 '''
