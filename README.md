@@ -9,7 +9,9 @@ To recommend restaurants based on the food items which the user wants to eat and
 ### Contributers : 
 
 [Akhil Gupta](https://github.com/akhilgupta-official)
+
 [Sarang Sharma](https://github.com/sarang-sharma)
+
 [Varun Dey](https://github.com/varundey)
 
 ### Todo
