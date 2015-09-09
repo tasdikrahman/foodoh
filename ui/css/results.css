@@ -1,0 +1,188 @@
+#wrapper		{ 	 
+					background-color:#FFF;
+					padding:0 40px;
+    				clear: both;
+   					height: auto;
+    				margin: 0 auto;
+   					overflow: hidden;
+    				width: 960px;
+					z-index:0;
+					border-radius: 10px;
+					background-image: url(../img/bg-grunge.jpg);
+					}
+#wrapper h1{
+	font-family: 'Abril Fatface', cursive;
+  color: #89181c;
+  margin-top: 78px;
+}
+
+nav.navbar-findcond { background: #fff; border-color: #FFF; box-shadow: 0 0 2px 0 #ccc; }
+nav.navbar-findcond a { color: #f14444; }
+nav.navbar-findcond ul.navbar-nav a { color: #f14444; border-style: solid; border-color: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover,
+nav.navbar-findcond ul.navbar-nav a:visited,
+nav.navbar-findcond ul.navbar-nav a:focus,
+nav.navbar-findcond ul.navbar-nav a:active { background: #fff; }
+nav.navbar-findcond ul.navbar-nav a:hover { border-color: #f14444; }
+nav.navbar-findcond li.divider { background: #ccc; }
+nav.navbar-findcond button.navbar-toggle { background: #f14444; border-radius: 2px; }
+nav.navbar-findcond button.navbar-toggle:hover { background: #999; }
+nav.navbar-findcond button.navbar-toggle > span.icon-bar { background: #fff; }
+nav.navbar-findcond ul.dropdown-menu { border: 0; background: #fff; border-radius: 4px; margin: 4px 0; box-shadow: 0 0 4px 0 #ccc; }
+nav.navbar-findcond ul.dropdown-menu > li > a { color: #444; }
+nav.navbar-findcond ul.dropdown-menu > li > a:hover { background: #f14444; color: #fff; }
+nav.navbar-findcond span.badge { background: #f14444; font-weight: normal; font-size: 11px; margin: 0 4px; }
+nav.navbar-findcond span.badge.new { background: rgba(255, 0, 0, 0.8); color: #fff; }
+
+
+.btn {
+	letter-spacing: 1px;
+	text-decoration: none;
+	background: none;
+    -moz-user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+    white-space: nowrap;
+	font-size:14px;
+	line-height:20px;
+	font-weight:700;
+	text-transform:uppercase;
+	border: 3px solid;
+	padding:8px 20px;
+
+}
+
+.btn-outlined {
+    border-radius: 0;
+    -webkit-transition: all 0.3s;
+       -moz-transition: all 0.3s;
+            transition: all 0.3s;
+}
+
+.btn-outlined.btn-theme {
+    background: none;
+    color: #6f5499;
+	border-color: #6f5499;
+}
+
+.btn-outlined.btn-theme:hover,
+.btn-outlined.btn-theme:active {
+    color: #FFF;
+    background: #6f5499;
+    border-color: #6f5499;
+}
+
+.btn-outlined.btn-black {
+    background: none;
+    color: #000000;
+	border-color: #000000;
+}
+
+.btn-outlined.btn-black:hover,
+.btn-outlined.btn-black:active {
+    color: #FFF;
+    background: #000000;
+    border-color: #000000;
+}
+
+.btn-outlined.btn-white {
+    background: none;
+    color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+
+.btn-outlined.btn-white:hover,
+.btn-outlined.btn-white:active {
+    color: #6f5499;
+    background: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.btn-xs{
+	font-size:11px;
+	line-height:14px;
+	border: 1px solid;
+	padding:5px 10px;
+}
+
+.btn-sm{
+	font-size:12px;
+	line-height:16px;
+	border: 2px solid;
+	padding:8px 15px;
+}
+
+.btn-lg{
+	font-size:18px;
+	line-height:22px;
+	border: 4px solid;
+	padding:13px 40px;
+}
+
+.result{
+	margin-left: 50px;
+}
+
+.result h3{
+	color: #000000;
+}
+
+
+
+/****** Style Star Rating Widget *****/
+
+.rating {
+  border: none;
+  float: right;
+  margin-right: 40px;
+}
+
+.rating > input {
+  display: none;
+}
+
+.rating > label:before {
+  margin: 5px;
+  font-size: 2.5em;
+  font-family: FontAwesome;
+  display: inline-block;
+  content: "\f005";
+}
+
+.rating > .half:before {
+  content: "\f089";
+  position: absolute;
+}
+
+.rating > label {
+  color: #ddd;
+  float: right;
+}
+/***** CSS Magic to Highlight Stars on Hover *****/
+
+.rating > input:checked ~ label,
+/* show gold star when clicked */
+
+.rating:not(:checked) > label:hover,
+/* hover current star */
+
+.rating:not(:checked) > label:hover ~ label {
+  color: #FFD700;
+}
+/* hover previous stars in list */
+
+.rating > input:checked + label:hover,
+/* hover current star when changing rating */
+
+.rating > input:checked ~ label:hover,
+.rating > label:hover ~ input:checked ~ label,
+/* lighten current selection */
+
+.rating > input:checked ~ label:hover ~ label {
+  color: #FFED85;
+}
