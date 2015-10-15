@@ -22,4 +22,4 @@ To recommend restaurants based on the food items which the user wants to eat and
 
 ### License
 
-All rights reserved.
+MIT License.
